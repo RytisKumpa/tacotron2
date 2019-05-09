@@ -1,101 +1,473 @@
-wavs/LT012-0022.wav|Kadangi tikrai žinojau, kad tikrą patirtį jis tikrai turi
-wavs/LT012-0023.wav|(o tikra patirtimi aš laikau tuos, kurie iki tol yra kažką padarę ir kitose srityse, ne tik kitų mokymuose ar konsultavime)...
-wavs/LT012-0024.wav|tad nutariau dar labiau pasigilinti į jo svajones...
-wavs/LT012-0025.wav|Nors jo idėja projektui buvo gana paprasta, bet aš ją nutariau pakelti į naują lygį...
-wavs/LT012-0026.wav|Išsiaiškinęs jo pagrindinius ir unikalius pranašumus - gali dirbti iš kur nori, gyvena Prancūzijoje, o verslus prižiūri nuotoliniu būdu,
-wavs/LT012-0027.wav|o man asmeniškai įdomiausia jo istorijos detalė pasirodė tokia - jis praeityje nebuvo priimtas į savo trokštamą darbą, nes mikčiojo...
-wavs/LT012-0028.wav|todėl ir pradėjo kurti savo verslą.. Wow.
-wavs/LT012-0029.wav|Aš manau, kad tai labai reikšminga ir įkvepianti istorija mums visiems - kad nenuleistume rankų, jeigu kokie “klerkai” neleidžia tau siekti pirminės svajonės...
-wavs/LT012-0030.wav|O patikėkite, jis rankų nenuleido. Kartu su žmona jie pradėjo savo, pradžioje mažytį, nekilnojamojo turto versliuką, kuris dabar tampa vis didesnis ir didesnis...
-wavs/LT012-0031.wav|bet, čia ne apie tai aš..
-wavs/LT012-0032.wav|O aš apie tai, kad sužinojęs jo istoriją, aš nutariau padaryti ją pačiu svarbiausiu jo pardavimų argumentu ir unikaliu komerciniu pasiūlymu.
-wavs/LT012-0033.wav|Investavęs į mane vos X litų, Tomas per pusantrų metų surinko penkiolika X litų pardavimų..
-wavs/LT012-0034.wav|Aš jam padėjau surinkti potencialių klientų bazę, paruošti pasiūlymus jo mokymams, rašiau tekstus elektroniniams naujienlaiškiams ir kitiems susijusiems veiksmams bei naujiems produktams.
-wavs/LT012-0035.wav|Labiausiai aš likau patenkintas tuo, kaip stipriai Tomas dabar yra pripažįstamas ir gerbiamas savo klientų.
-wavs/LT012-0036.wav|Nes jis vienas tų retų atvejų, kai mokymuose kalba apie tai, ką pats savo rankomis išbandė ir padarė. O tai tikrai tikrai retai sutinkama.
-wavs/LT012-0037.wav|Taigi, mūsų bendradarbiavimas Tomui reiškė nei daug, nei mažai, bet tik penkiolikos kartų atsipirkimą (plius
-wavs/LT012-0038.wav|tai, kad dabar jo mokymų verslas įsivažiavo kur kas rimčiau ir masyviau)
-wavs/LT012-0039.wav|Galime sakyti, ką norime, bet tokie rezultatai nenutinka per naktį. To nepasiekėme greitai ir mes, tik per metus su trupučiu..
-wavs/LT012-0040.wav|Bet ar tai blogai?
-wavs/LT012-0041.wav|Taigi, mano klausimas jums būtų toks..
-wavs/LT012-0042.wav|Ar jūs sutiktumėte su manimi įvykdyti mainus - jūs man duodate vieną eurą, o aš jums duodu penkioliką eurų atgal?
-wavs/LT012-0043.wav|Jeigu jums tai atrodo įdomu ir aktualu, kviečiu skaityti toliau.
-wavs/LT012-0044.wav|Suprantu, kad rašydamas apie griežtoką klientų atsirinkimą galėjau nuskambėti gana kategoriškai, tačiau supraskite ir mane..
-wavs/LT012-0045.wav|jeigu dirbsime kartu ir jūs įgyvendinsite strategijas, kurias jums paruošiau,
-wavs/LT012-0046.wav|jūs UŽDIRBSITE pinigus ARBA aš tiesiog jums sumokėsiu penkis šimtus eurų už tai, kad jus sugaišinau.
-wavs/LT012-0047.wav|Ir, kaip minėjau, aš esu laimingas tik tuomet, kai esate laimingi jūs,
-wavs/LT012-0048.wav|tad jeigu aš dėsiu visas pastangas, energiją ir laiką, kad padėčiau jums uždirbti daugiau pinigų, aš privalau žinoti, kad jūs tai tikrai įgyvendinsite.
-wavs/LT012-0049.wav|Kad abu puikiai suprastume, jog siekiame to paties ir abu iš to uždirbtume, aš sukūriau šias griežtas, tačiau sąžiningas taisykles, kad galėčiau tinkamai įvertinti
-wavs/LT012-0050.wav|ar jūs man ir aš jums tiksiu.
-wavs/LT012-0051.wav|Prašau jūsų perskaityti šiuos “Dešimt Privataus kliento kriterijų” ir nuspręskite ar mes vienas kitam būsime priimtini..
+wavs/LT013-0145.wav|Ne pompastiška, greičiau keista, gal apsirūkiusio skulptoriaus sukurta.
+wavs/LT008-0079.wav|Tad kai diskusija pakrypsta apie internetinio marketingo subtilybes, mes iš karto matome ar žmogus tuo domisi ilgai, ar yra pradedantysis..
+wavs/LT026-0065.wav|Gavnianka, bet to pavadinimo jūs nerasite turistinėse miesto schemose.
+wavs/LT033-0111.wav|plieninę patranką, rodos, lipniais raudono vaško gumulais šaudančią į baltą sieną, iš vielos tinklo pagamintą kanoją,
+wavs/LT036-0087.wav|Profesorius skausmingai persikreipė, išsitiesė ant nugaros ir alkūnėmis atsistūmė nuo žemės.
+wavs/LT027-0120.wav|tai ji užsakė šampaną su omarais, ji žinojo, kas man patinka, ir dabar suprato, kad užsakymas atvyko ir kad viskas, kaip visada, pavyko taip, kaip suplanuota.
+wavs/LT003-0099.wav|Įrodyta, kad žemiau pateikti žodžiai bei žodžių junginiai sužadina smalsumą ir apatiją paverčia susidomėjimu:
+wavs/LT017-0021.wav|Tų moterų mes, paprasti anglai, nematome ir prie jų neprisiartiname.
+wavs/LT019-0027.wav|Dabar viską apie savo buvusį gyvenimą prisiminiau kaip pro miglą.
+wavs/LT034-0118.wav|Įspūdinga, pagalvojo Lengdonas spėliodamas, ar Edmondo kalba įrašyta, ar jis vis dėlto stovi užkulisiuose ir skaito iš anksto paruoštą tekstą.
+wavs/LT016-0205.wav|- Vis tiek užsirašykite.
+wavs/LT035-0069.wav|tuo pat metu siekdamas įvertinti, kaip mano atradimą priims skirtingų tikėjimų žmonės,
+wavs/LT021-0075.wav|taukinų akinių žilus, seniai plautus, prakaituotus plaukus, ir kvėpuoja pro burnas, pilnas apgedusių dantų.
+wavs/LT016-0010.wav|Žmonės, turėję priklausomybę nuo narkotikų, lošimų, alkoholio. Žmonės, keitę lytį.
+wavs/LT006-0049.wav|Galite sakyti, kad šį klausimą tikrai verta apsvarstyti; juk norite žinoti, ar šis žingsnis protingas.
+wavs/LT015-0051.wav|Į kontorą, kur manęs niekas nebepažįsta? Kaip man paskambintų tie žmonės, su kuriais aš maniau, kad turiu susitikti?
+wavs/LT016-0191.wav|Lauke stovėjo ir į mane žiūrėjo pusamžis vyras su mažu krepšeliu - arba didele pinigine - per petį.
+wavs/LT002-0166.wav|Bet jį turime išversti į paprastam žmogui suprantamą kalbą, nes žmogus neperka savybės, o perka emociją, kurią nori gauti.
+wavs/LT031-0020.wav|Už jų ant medinių stovų riogsojo trys sunkūs tomai
+wavs/LT035-0008.wav|į miškingą lauką ir šimtus renginio svečių, prigulusių ant patiesalų ir žiūrinčių į žvaigždes.
+wavs/LT038-0198.wav|Tu visiškai nepasitiki sužadėtiniu, ar ne?
+wavs/LT039-0061.wav|„Twitter“, „Facebook“, tinklaraščiais, kurių įtaka sparčiai augo, rūmai atleido patyrusį,
+wavs/LT023-0167.wav|Kitaip nepaaiškinsi, kodėl daugelis aktorių eina vaidinti į lietuviškus televizijos serialus
 wavs/LT012-0052.wav|Pirmas. Jūs TURITE turėti jau veikiantį verslą, generuojantį nuo šimto tūkstančių eurų per metus ir daugiau.
-wavs/LT012-0053.wav|Antras. Jūs TURITE turėti egzistuojantį klientų sąrašą.
-wavs/LT012-0054.wav|Trečias. Jūs TURITE turėti galimybę greitai aptarnauti ir aprūpinti klientus,
-wavs/LT012-0055.wav|staigiai pakilus pardavimų apimtims (produktų/paslaugų kiekio ir kokybės užtikrinimas esant gerokai didesniam nei dabar klientų srautui).
-wavs/LT012-0056.wav|4Ketvirtas Jūs JAU DABAR perkate reklamas internete, investuojate į rinkodarą ir suvokiate jos reikšmę.
-wavs/LT012-0057.wav|Penktas. Jūs TURITE galimybes investuoti į papildomą reklamą ir rinkodarą.
-wavs/LT012-0058.wav|Šeštas. Jūs TURITE nemenką laimingų klientų duomenų bazę.
-wavs/LT012-0059.wav|Septintas. Jūs TURITE turėti gerus produktus/paslaugas ir gerą reputaciją.
-wavs/LT012-0060.wav|Aštuntas. Jūs TURITE naudoti tai, ką jums paruošiu.
-wavs/LT012-0061.wav|Devintas. Jeigu jūs parduodate “greito praturtėjimo” ir kitas schemas - NESIREGISTRUOKITE.
-wavs/LT012-0062.wav|Dešimtas. Jeigu jūs nesiruošiate pritaikyti to, ką aš jums paruošiu - NESIREGISTRUOKITE.
-wavs/LT012-0063.wav|Jeigu visi dešimt kriterijų jums yra priimtini, tuomet aš priimu ir jus, kaip savo klientą.
-wavs/LT012-0064.wav|Štai kam būkite pasiruošę:
-wavs/LT012-0065.wav|Aš kruopščiai išanalizuosiu jūsų esamą situaciją.
-wavs/LT012-0066.wav|Aš sukursiu naują jūsų marketingo planą, peržiūrėsiu jūsų komercinius pasiūlymus, jūsų elektroninius naujienlaiškius, jūsų “landing” puslapius,
-wavs/LT012-0067.wav|jūsų “direct mail” pasiūlymus,
-wavs/LT012-0068.wav|jūsų “cross-marketing” pasiūlymus,
-wavs/LT012-0069.wav|jūsų “up-sell” pasiūlymus,
-wavs/LT012-0070.wav|jūsų “back-end” pasiūlymus ir jūsų naujų klientų pritraukimo strategijas.
-wavs/LT012-0071.wav|Aš parodysiu jums kokius pokyčius būtina įdiegti ir kokius veiksmus būtina žengti, kad padidintumėte pardavimų konversiją ir galiausiai - jūsų pelną.
-wavs/LT012-0072.wav|Praktiškai jūs gausite viską - tiek esamos situacijos analizę, auditą, tiek naują, pažangų marketingo planą, sukurtą TIK JUMS.
-wavs/LT012-0073.wav|Priešingai, nei kokia marketingo ar reklamos agentūra, kuri bus ar nebus pakankamai kūrybinga ir PATYRUSI, aš sukursiu jums besąlygiškai veikiančią PINIGŲ MAŠINĄ.
-wavs/LT012-0074.wav|Dabar pakalbėkime apie sąnaudas, susijusias su šiuo darbu.
-wavs/LT012-0075.wav|Natūralu, kad aš ieškau solidaus, abipusiškai naudingo susitarimo, kuris jums, galutiniame rezultate, nieko nekainuos.
-wavs/LT012-0076.wav|Mano kaina už šį darbą yra tūkstantis tevyni šimtai devyniasdešimt septyni eurai
-wavs/LT012-0077.wav|(už marketingo strategijos ir veiksmų plano paruošimą, komercinių pasiūlymų analizę ir patobulinimus, rekomendacijas ir trijų mėnesių konsultacijas skype ir elektroniniu paštu).
-wavs/LT012-0078.wav|Jeigu per pirmus tris darbo mėnesius jūs nesulauksite bent dviejų šimtų procentų jūsų investicijos į mane grąžos,
-wavs/LT012-0079.wav|aš iš karto grąžinsiu jūsų sumokėtus tūkstantis tevyni šimtai devyniasdešimt septynius eurus
-wavs/LT012-0080.wav|ir papildomai pervesiu jums penkių šimtų eurų, kaip “mokestį” už jūsų sugaištą laiką.
-wavs/LT012-0081.wav|Kitas svarbus pažadas ir mano tikslas - jums padėti sugeneruoti penkiolika kartų R O I už jūsų investiciją į mane (per metus su trupučiu).
-wavs/LT012-0082.wav|Tai reiškia, kad jeigu jūs investuojate į mane vieną eurą, jūs gaunate penkioliką eurų atgal..
-wavs/LT012-0083.wav|Natūralu, kad paklausite - bet ar tai įmanoma?
-wavs/LT012-0084.wav|Taip, jeigu jūsų verslas man puikiai pažįstamas.. Pavyzdžiui, jeigu jūsų verslas - konsultacijos, profesionalios paslaugos, mokymai, seminarai, konferencijos
-wavs/LT012-0085.wav|ir visi kiti panašios srities dalykai - aš galiu labai greitai parodyti jums tą kelią, kuris jums padės uždirbti daugiausiai.
-wavs/LT012-0086.wav|Dėl ko turiu įspėti - jeigu aš nesijausiu, kad galiu kažkuo jums ženkliai padėti - tuomet taip ir pasakysiu.
-wavs/LT012-0087.wav|Tikrai nevedžiosiu jūsų už nosies ir nežadėsiu neįmanomo.
-wavs/LT012-0088.wav|Taigi, bet kuriuo atveju jūs esate garantuoti (ir pasmerkti) gauti pelną - arba mano žadėtą R O I penkioliką kartų,
-wavs/LT012-0089.wav|arba sėkmingos pradžios R O I - dviejų šimtų procentų pardavimų augimą, arba..
-wavs/LT012-0090.wav|jeigu kažkas ne taip - mano asmeninę penkių šimtų eurų išmoką jums už sugaištą laiką..
-wavs/LT012-0091.wav|Kita gera žinia - aš neprašau dalies pelno. Visi “nauji” pinigai, papildomos pajamos, kurias uždirbsite iš esamų produktų/paslaugų prekybos,
-wavs/LT012-0092.wav|bei nauji, išvestiniai projektai, kuriuos “netyčia” arba tyčia galiu jums sugalvoti eigoje - viskas liks jūsų ir jokio komisinio už tai neprašysiu.
-wavs/LT012-0093.wav|Ir svarbiausia - jeigu AŠ pats netikėsiu, kad mano marketingo planas gali jums padėti reikšmingai uždirbti per ateinančius tris - dvylika mėnesių,
-wavs/LT012-0094.wav|aš tiesiog nepriimsiu jūsų, kaip kliento (pakartoju šią žinutę dar kartelį).
-wavs/LT012-0095.wav|Taigi, jeigu jūs norėtumėte sutarti mūsų “Skype” pokalbio laiką ir asmeniškai su manimi pasikalbėti ir peržiūrėti jūsų galimybes
-wavs/LT012-0096.wav|Štai ką reikia padaryti
-wavs/LT012-0097.wav|Pradėkite nuo šio puslapio www taškas saikus taškas lt pasvyrasis brukšnys konsultacijos
-wavs/LT012-0098.wav|Kai tik čia susisieksime, susipažinsime su visa informacija ir pradėsime registraciją, aš paprašysiu jūsų patikimo žmogaus depozito - šimto eurų.
-wavs/LT012-0099.wav|Šis depozitas yra grąžinamas bet kokiomis aplinkybėmis. Jis skirtas tik tam, kad aš būčiau tikras, jog jūs rimtai nusiteikę ir nenorite gaišinti savo ir mano laiko.
-wavs/LT012-0100.wav|Jeigu mes nuspręsime nedirbti kartu, aš iš karto jums jį grąžinsiu.
-wavs/LT012-0101.wav|Jeigu norėsite jį susigrąžinti dar prieš mums pasikalbant - aš irgi jį sugrąžinsiu. Aš tikrai nesu suinteresuotas jūsų depozitu tik jūsų rimtumu.
+wavs/LT014-0066.wav|(„ATOSTOGOMS :) MES NORIME KELIAUTI Į TAILANDĄ“, - skelbė užrašas ant kiaulės šono) ir, pasiėmęs kavą, nuėjau prie tolimiausio staliuko pustuštėje salėje.
+wavs/LT033-0125.wav|Bet prisiartinęs prie eksponato Lengdonas staiga stabtelėjo, nes jį sutrikdė glotnus rombo paviršius, ant kurio nebuvo matyti jokių potėpių.
+wavs/LT023-0106.wav|tegu perka japonišką; jei nori pirkti amerikietišką, sakyk, kad pirktų geriau vokišką, o jei nori pirkti prancūzišką,
+wavs/LT022-0072.wav|nes kaip čia tuščiomis rankomis grįši iš mugės.
+wavs/LT027-0104.wav|Turtingųjų pasaulio problemos, pagalvojau aš, paskui pasitaisiau mintyse - laimingųjų problemos. Ir tada man dar kartą žybtelėjo tai,
+wavs/LT038-0188.wav|Aš suprantu, kaip viskas atrodo, - prakalbo, apdairiai rinkdamas žodžius, vengdamas ją įskaudinti,
+wavs/LT013-0044.wav|nė vienos kitos šalies nepažįstu taip gerai, kaip Anglijos.
+wavs/LT030-0124.wav|filtrai išvalydavo jį nuo žalingų dalelių ir oksidantų, jonizuotas vanduo palaikydavo keturiasdešimt penkių procentų drėgnumą.
+wavs/LT036-0021.wav|Vienišasis paveldėtojas - taip princą šaltakraujiškai įvardijo Jungtinės Karalystės bulvarinė spauda.
+wavs/LT002-0115.wav|Laikas išbandyti!
+wavs/LT007-0029.wav|„Nabisco“ kompanijoje dirba labai protingi žmonės. Užuot reklamas kuriančioms ar tyrimus atliekančioms kompanijoms mokėję didelius pinigus už šūkio sukūrimą,
+wavs/LT002-0209.wav|Klientus pavergs faktai, paimti iš tokių šaltinių kaip „Pranešimai vartotojams“.
+wavs/LT019-0026.wav|Kaip ir visi žmonės aplink mane, laukdavau atostogų ir penktadienių, bjaurėdavausi pirmadieniais ir apie nieką nesvajojau, galvodavau, kad viskas gerai, kad tik nebūtų blogiau.
+wavs/LT037-0082.wav|Šiandien įvyko siaubinga tragedija, nes kažkas nužudė stulbinamai gabų žmogų, beveik neabejotinai mėgindamas amžiams palaidoti jo atradimą.
+wavs/LT021-0208.wav|Kaip supratau, jiems tai buvo eilinė diena darbe ir visiškai normalus, neišskirtinis filmavimas.
+wavs/LT026-0036.wav|„Chocolate sweets.“ Lietuviui galima
+wavs/LT034-0265.wav|Eliziejaus laukai, kaip juos perteikė graikai, Gilgul nešamot, arba keliaujančios sielos,
+wavs/LT032-0264.wav|Profesorius įsitempė. - Iš Madrido?
+wavs/LT003-0028.wav|Vartotojams būdingos keturių tipų baimės, taigi jas galite panaudoti savo naudai.
+wavs/LT032-0147.wav|atsiduso, nužvelgė plikas grindis ir statmenas plokštumas vėl spėliodamas, ar tik Edmondas nebando jam krėsti įmantraus studentiško pokšto.
+wavs/LT032-0142.wav|Link centro pagal laikrodžio rodyklę nepaliaujamai vingiuojantis takas buvo ilgesnis, nei Lengdonas manė, ir netrukus jis pametė ratų skaičių.
+wavs/LT016-0181.wav|kaip nusikaltėlis, kuris grįžta į nusikaltimo vietą, norėjau dar pažiūrėti į tas rūsio iščias, kurios pagimdė mane, naują Lietuvos gyventoją su praeitimi, bet be atminties,
+wavs/LT038-0146.wav|Ką sakei? - paklausė Kiovešas.
+wavs/LT037-0103.wav|kartu jausdama, kaip Fonseka ją stebi.
+wavs/LT036-0199.wav|Bet jeigu jau ruošiamės pasaulį supažindinti su atradimu, maldauju, darykime tai kartu. Dienos šviesoje. Garbingai.
+wavs/LT024-0162.wav|maža to, net susitarėme, kad juos pirks mokyklos ir prievarta maitins nepažangiems moksleiviams prie pietų.
+wavs/LT038-0152.wav|Telefonas nenutilo, ir rabinas suprato: tokiu metu gali skambinti tik vyskupas Valdespinas, kuris, matyt, ketina pranešti, kaip konkrečiai Kiovešas bus nugabentas į Madridą.
+wavs/LT033-0079.wav|Aprovecharla sera crucial. Turėsite tik vieną progą, labai svarbu, kad ją išnaudotumėte.
+wavs/LT034-0100.wav|ims kruopščiai nagrinėti ar net kritikuoti mūsų pačių avelės, kurios tikriausiai manys, jog turėjome imtis atitinkamų žygių.
+wavs/LT013-0156.wav|PRAŠOM NE UŽSTATYKITE VARTUS
+wavs/LT034-0302.wav|Šįvakar šia kryptimi judanti žmonija atliks milžinišką šuolį. Nuo jo žodžių Lengdonas ūmai suvirpėjo.
+wavs/LT037-0138.wav|Ambra išplėtė akis. - Keturiasdešimt penki?
+wavs/LT018-0085.wav|Ir dar labai gerai yra tai, kad čia esu aš,
+wavs/LT028-0126.wav|- Iguana, iguana, kac kac kac, bėk čia, mes tau turim pašaro, - šaukė Bačiulis.
+wavs/LT017-0190.wav|Telefonas suburzgė, atėjo žinutė su Fardino numeriu, bet kaip tik tada atnešė man maistą. Pavalgiau, susimokėjau ir pagalvojau,
+wavs/LT036-0246.wav|Karalius ištiesė ranką ir suėmė kaulėtą vyskupo plaštaką.
+wavs/LT031-0052.wav|Tinkamai jį nušvietę, sušvelninsime smūgį, kad naujiena kuo mažiau įbaugintų žmones, tikinčius dvasiniu pasauliu.
+wavs/LT039-0008.wav|kad princą blaškytų Valdespino pastangos primesti religinius klausimus.
+wavs/LT038-0105.wav|po daugelio metų, net jeigu jų nuomonės ne visuomet sutapdavo.
+wavs/LT039-0002.wav|Jūs kišatės ne į savo reikalus, persiutęs norėjo sušukti. Čia ne jūsų sritis!
+wavs/LT013-0005.wav|Skaito Audrius Čaikauskas.
+wavs/LT014-0025.wav|Gabija A, Ingrid Aadamsson, Romas Abaravičius,
+wavs/LT029-0081.wav|Sulig tuo žodžiu vyskupas pamojo pirmyn.
+wavs/LT016-0151.wav|Kuris, nu šitas... kirpėjas.
+wavs/LT020-0079.wav|kaip nekreipiantis dėmesio. Nekreipia dėmesio arba tie, kas visiškai nesupranta, kas vyksta apie juos, arba tie, kas patys labai įpratę būti dėmesio centre.
+wavs/LT037-0002.wav|ar keistas admirolo Avilos pabėgimo būdas.
+wavs/LT034-0001.wav|Tunelis, kurį gaubė ant atraminių arkų įtemptas juodas audinys, buvo dvidešimties pėdų pločio, jis nuožulniai kilo aukštyn ir mažumėlę krypo kairėn.
+wavs/LT036-0103.wav|Arba susisiekti su tais, kurie už jas atsakingi?
+wavs/LT024-0116.wav|Gėrei šiltą alų arba žiūrėjai futbolą per Sky Sports? Kalbinai vietines susivėlusias mergas kumelių snukiais? Ką jos galėjo tau papasakoti
+wavs/LT008-0056.wav|Trečiu atveju dalyvis tarė:
+wavs/LT013-0136.wav|- Gerai, kad niekas nekreipia dėmesio.
+wavs/LT037-0095.wav|kuri su kažkuo šnekėjo mobiliuoju ir slinko vis toliau nuo agento.
+wavs/LT002-0118.wav|„Super Draudimas“ apsaugos Jus ir Jūsų namus. Nuostolių atlyginimas iki du šimtai penkiasdešimt tūkstančių eurų.
+wavs/LT027-0026.wav|Lygiai po dviejų sekundžių automobilis įsirėžė į šviesoforą, kuris čia pat nulinko iki žemės, ir sustojo, dūmindamas į visas puses.
+wavs/LT032-0260.wav|Primygtinai paragino mane atšaukti savo ketinimus ir to neviešinti. Pažadėjau pamąstyti kokį mėnesį.
+wavs/LT023-0144.wav|Visos šios išminties jie pasisemia iš alaus.
+wavs/LT025-0010.wav|arba tuojau pradės keiktis.
+wavs/LT034-0130.wav|Pirmykščiai žmonės, - iš ekrano dėstė Lengdonas, - su didžia nuostaba žvelgdavo į visatą ir ypač į jų protams nesuvokiamus fenomenus.
+wavs/LT004-0121.wav|Klientai, kurie perka dažniausiai ir daugiausiai. Jie pasijunta pageidautini ir svarbūs dėl Jūsų pasiūlymo:
+wavs/LT022-0137.wav|Kai karuomenėj buvau anksčiau prie ruso, tai tuos pydarus dūchinom kasdien, bijoj iš kazarmos išeit, gaidžiai, - pasakojo Martynas.
+wavs/LT033-0118.wav|Devyniasdešimt devyni vilkai nieko nepaisydami lekia į sieną, ir tai atspindi bandos mentalitetą, vengimą nukrypti nuo visuotinai priimtų normų.
+wavs/LT034-0269.wav|mitologijų bei religijų, taip užtikrindamos mus, kad nematomas pasaulis turi struktūrą ir pasižymi atitinkama tvarka.
 wavs/LT012-0102.wav|Po to, kai paliksite patikimo žmogaus depozitą, jūs iš karto pateksite į klausimyno puslapį, kuriame paklausiu keleto man svarbių klausimų apie jūsų verslą.
-wavs/LT012-0103.wav|Tikrai neprašysiu jokios labai slaptos informacijos, man tik reikės sužinoti tam tikrus jūsų verslo niuansus, iššūkius,
-wavs/LT012-0104.wav|ką jūs parduodate ir ko dabar pasigendate.
-wavs/LT012-0105.wav|Taip galėsiu kaip įmanoma geriau pasiruošti pokalbiui su jumis.
-wavs/LT012-0106.wav|Prašau jūsų atsakyti į tuos klausimus sąžiningai ir įveskite tik pačią tikriausią jūsų kontaktinę informaciją.
-wavs/LT012-0107.wav|Kai tik gausiu jūsų patikimo žmogaus depozitą ir atsakymus į klausimyną, mano kolega paskambins jums ir plačiau pasikalbėsite apie laukiantį pokalbį.
-wavs/LT012-0108.wav|Tuomet su juo sutarsite pokalbio laiką su manimi.
-wavs/LT012-0109.wav|Jis susisieks su jumis per keturiasdešimt aštuonias valandas.
-wavs/LT012-0110.wav|O mūsų pirmasis (ir tikiuosi, kad nepaskutinis) “Skype” pokalbis truks nuo trisdešimt iki keturiasdešimt penkių minučių.
-wavs/LT012-0111.wav|Tai bus ta akimirka, kai mes pradėsime dirbti prie to, ko jūs iš tikrųjų norite... ir kaip to pasiekti.
-wavs/LT012-0112.wav|Jeigu jūs pamatysite reikšmingą mūsų bendro darbo vertę, tuomet puiku! Mes apie tai kalbėsimės toliau.
-wavs/LT012-0113.wav|O jeigu jūs nuspręsite, kad nenorite tapti mano klientu, tuomet irgi puiku.
-wavs/LT012-0114.wav|Nedarysiu iš to jokios problemos. Tiesiog grąžinsiu jums jūsų depozitą ir toliau stengsiuosi jums suteikti maksimalią vertę pokalbio metu.
-wavs/LT012-0115.wav|Taigi, dėkoju jums už dėmesį ir lauksiu jūsų atsakymo.
-wavs/LT012-0116.wav|SVARBU - LAIKAS. LAIKAS. LAIKAS.
-wavs/LT012-0117.wav|Dėl nepaprastai jautraus ir laikui imlaus darbo, aš galiu priimti tik labai ribotą klientų skaičių.
-wavs/LT012-0118.wav|Paskutinį kartą, kai pristačiau šias paslaugas, užsiregistravo per dvidešimt įvairių verslų. Aš galėjau priimti tik du. (Ir padėjau abiems ženkliai padidinti pardavimus).
-wavs/LT012-0119.wav|Tačiau šiuo metu galiu priimti lygiai penkis klientus. Daugiau niekaip. Prašau suprasti.
-wavs/LT012-0120.wav|Nuoširdžiai jūsų, Martynas Šaikus.
-wavs/LT012-0121.wav|P.S. Svetainė, kurioje galite užsiregistruoti yra www taškas saikus taškas L T pasvyrasis brukšnys konsultacijos
-wavs/LT012-0122.wav|Jeigu tai jus tikrai domina, aš drąsinu jus kuo greičiau registruotis.
+wavs/LT017-0070.wav|Aha, nors ir modelio gražumo princesė, bet moteriškas charakteris.
+wavs/LT034-0139.wav|Iš kažkur pūtė pievą šiurenantis žvarbus vėjas.
+wavs/LT011-0100.wav|šimtu procentu susikoncentruosite tik į tai, ką galite padaryti geriausiai ir už ką gausite daugiausiai pajamų (Pozicionavimo širdis).
+wavs/LT024-0068.wav|ten nesidaugina, kaip pandos nesidaugina nelaisvėje.
+wavs/LT028-0003.wav|Per naktį iškilo plakatai „Vitaminai tik protingiems vyrams. Kad jie prilygtų moterims“
+wavs/LT014-0077.wav|Mano vardas, kurį aš žinojau, yra Timothy Nigelis Brownas.
+wavs/LT019-0085.wav|ir ėmiau galvoti, ką turėčiau daryti dabar.
+wavs/LT035-0220.wav|tebesiuntė vaizdą tiek į kupolo lubų ekraną, tiek visam pasauliui.
+wavs/LT036-0221.wav|Valdespinas nutraukė ryšį jausdamas, kaip širdį slegia baimė; jis įtarė,
+wavs/LT030-0042.wav|Matyt, šiandienos varžybas laimėjo mieste viešinti Airijos rinktinė.
+wavs/LT016-0094.wav|Aš juk tik labai neseniai išmokau lietuvių kalbą, kai išlipau iš rūsio.
+wavs/LT003-0003.wav|Penktas) Nemokamos dovanos mygtukas.
+wavs/LT011-0108.wav|Ir galiausiai, nubrėšite naujas, pažangesnes jūsų įmonės darbo su klientais instrukcijas, kurios padės ne tik gerokai lengviau išlaikyti esamus klientus,
+wavs/LT015-0083.wav|Ir mano balsas, reikia manyti, buvo toks pat, kaip Merkio Kazlausko. Antraip gal manęs būtų nepažinę.
+wavs/LT011-0049.wav|Kadangi išpardavimas truks tik iki birželio devynioliktos dienos dvidešimt antros valandos, o prekių ir dydžių kiekis ribotas, todėl jau dabar: pirma -
+wavs/LT011-0099.wav|Sužinosite, kaip pozicionavimo dėka supaprastinti ir pagreitinti verslo sprendimų priėmimą.
+wavs/LT028-0030.wav|- Aš čia tik korespondentė, kodėl jūs mane puolate, aš dirbu savo darbą, - lemeno korespondentė, bet įniršusią moterį, poilsio namų savininkę, stabdyti jau buvo vėlu.
+wavs/LT002-0119.wav|Net per uraganą galėsite ramiai miegoti.
+wavs/LT004-0145.wav|Pirkėjai supranta, kad salėje yra tik keletas pavyzdžių, bet dar bent tuzinas tokių pat patalpinta sandėliuose, tačiau, nepaisant viso to,
+wavs/LT036-0228.wav|Kai kas manė, esą tie žodžiai atspindi per auksinę epochą ištisus šimtmečius trukusias Ispanijos pastangas praplėsti imperiją.
+wavs/LT014-0140.wav|Aš nepasakyčiau, kad viskas buvo mano skonio,
+wavs/LT033-0139.wav|„Ar būtent menas lemia mūsų žmogiškumą“ suteikė nejaukumą keliančią naują prasmę.
+wavs/LT026-0087.wav|Žmonės pradėjo atsisukinėti, aš pasilenkiau ir pasakiau garsiai greta stoviniuojančiai blynų pardavėjai:
+wavs/LT033-0088.wav|Vietos spauda ką tik pranešė, esą vienas iš Saido kolegų teigė, kad įprastai santūrus alama prieš dvi dienas parvyko iš Pasaulio religijų parlamento „keistai įsiaudrinęs“.
+wavs/LT024-0132.wav|Dabar aš paaiškinsiu, kas tau atsitiko. O tu manęs klausysies.
+wavs/LT032-0097.wav|Helena Vuli dėvėjo mėlyną bikinį.
+wavs/LT024-0032.wav|Aš pradėjau jaudintis,
+wavs/LT033-0209.wav|Staiga pro tarpdurį išėjo elegantiška moteris ir patraukė link scenos.
+wavs/LT018-0020.wav|taip įdomiai man pasakojo, ko jis ieško, ką matė ir kur gyveno gražesniuose kraštuose, kad man darbo valandos su juo, kai mes žiūrinėjome parduodamus namus ir butus,
+wavs/LT028-0131.wav|Tai buvo visiškai ironiška, nes Vainikis kaip tik iš šios dėžutės išsiuntė penkiasdešimt skundų į etikos komisiją,
+wavs/LT037-0129.wav|Jam nuspaudus kelis mygtukus, iš garsiakalbio atsklido skambučio signalas, ir kai jį sujungė, pasigirdo kompiuterizuotas moters balsas:
+wavs/LT027-0006.wav|nu kaip ta, nu prisimeni. Nu kaip jinai. Nu žinai gi. - Kuri? Nežinau.
+wavs/LT014-0151.wav|O Kalėdos? Įdomu, čia pas juos Kalėdos tą pačią dieną, kaip ir Anglijoje? Gal jie stačiatikiai?
+wavs/LT009-0039.wav|Būkite specifiški ir pateikite įrodymų
+wavs/LT011-0096.wav|Čia tik maža dalis to, ką sužinosite iš šių dviejų dienų superseminaro audio įrašų:
+wavs/LT003-0049.wav|kaip jie palengvins žmonių gyvenimus, kaip dėl jų klientams negalės atsispirti priešinga lytis arba kaip dėl jų žmonės taps turtingesni.
+wavs/LT021-0136.wav|kaip sužinojau, Vitalija Kapinskytė-Cepelinienė - ji buvo dainininkė, pasirodanti Palangoje jau nuo tūkstantis devyni šimtai šešiasdešimtpenktūjų metų,
+wavs/LT030-0216.wav|kurie kasdien vis ryžtingiau šnekėdavo apie tai, ką jie laikė religinio tikėjimo keliamomis grėsmėmis. Ateistai jau turi savas beisbolo kepuraites?
+wavs/LT037-0053.wav|Profesorius kurį laiką spoksojo į ją netikėdamas savo ausimis, mėgindamas įsisąmoninti išgirstus žodžius.
+wavs/LT037-0097.wav|Beliko padaryti paskutinį darbą.
+wavs/LT034-0172.wav|Išnykimui jis priešinosi kaip joks kitas, įsiveldamas į nuožmius mūšius prieš savo „gęstančią šviesą“ - lygiai taip pat, kaip ankstesnės dievybės,
+wavs/LT012-0085.wav|ir visi kiti panašios srities dalykai - aš galiu labai greitai parodyti jums tą kelią, kuris jums padės uždirbti daugiausiai.
+wavs/LT027-0065.wav|su kuriuo jau spėjau susipažinti, ir pradėjo pasakoti, kad po to, kai jo sugalvotą Vilniaus oro linijų bendrovę iš keršto
+wavs/LT005-0027.wav|Buvo spėjama, kad dėl prekybos centrų bankrutuos daugelis mažesnių vietinių parduotuvėlių, žlugs nemažai smulkaus verslo įmonių.
+wavs/LT031-0235.wav|Už Dievą, už tėvynę ir karalių, pamanė Luisas Avila. Bet labiausiai už Dievą.
+wavs/LT018-0095.wav|Nes, žinai, būna aktyvių ir sėkmingų žmonių, kurie viską spėja, nors, regis, neįmanoma tiek sudėti į tvarkaraštį, kiek sudeda jie.
+wavs/LT034-0079.wav|Bet kuris, norintis Kiršo atradimą išlaikyti paslaptyje, - skubiai tarė vyskupas. - Bet kuris,
+wavs/LT009-0037.wav|Surašykite viską popieriuje ir eikite prie ketvirtojo žingsnio.
+wavs/LT027-0014.wav|kai kurie turėjo įsitvėrę net po du, ir žiūrėjo šou, kur iš garsiakalbio leido tarpukario laikų vokiečių maršus.
+wavs/LT006-0126.wav|Žinoma, iš gyvenimo!
+wavs/LT026-0058.wav|ir vienas iš jų, trypčiodamas aplinkui, netyčia įmynė į pusiau skystą vėmalą prie restorano durų.
+wavs/LT035-0258.wav|Atleisk man, Viešpatie.
+wavs/LT004-0068.wav|Šio alaus kaina prieinama visiems.
+wavs/LT029-0027.wav|„Kilmėje“ įžūlus futuristas Edmondas Kiršas iškelia tokią drąsią teoriją, kad šioji, kaip jis kukliai mąsto Dano Browno pamėgtuoju kursyvu,
+wavs/LT032-0040.wav|Ponas Kiršas nėra Nostradamas.
+wavs/LT030-0093.wav|Vyruko veidas nusidažė raudonai, ir jis tėškėsi ant nugaros. Antrajam nespėjus sureaguoti, kita alkūne smogė jam į trachėją ir nutrenkė nuo kėdės.
+wavs/LT020-0013.wav|(dėl šitų neskauda), o tuos dalykus, prie kurių leisdavo prisiliesti ir kuriais leisdavo pasidžiaugti, tai labai skauda.
+wavs/LT017-0157.wav|Dar kelias valandas praleidau, makaluodamasis po miestą ir ieškodamas, gal kas nors mane gali pažinti ir prisiminti - aplankiau visas vietas, kurias tik prisiminiau.
+wavs/LT031-0196.wav|Priėjo prie koridoriaus, keletą sykių apsidairė tikrindamas, ar jo niekas nestebi, tada vogčiomis prasmuko už stulpelių ir žengęs pirmyn dingo kitiems iš akių.
+wavs/LT018-0007.wav|Gimęs turtingoje ir privilegijomis apdovanotoje šeimoje, jis gavo puikų išsilavinimą.
+wavs/LT032-0004.wav|Kiekviena riesta, statmena plokštuma buvo kone penkiolikos pėdų aukščio ir savitos grakščios formos
+wavs/LT039-0001.wav|Vadas Diegas Garsa žingsniais matavo tamsius princo Chulijano apartamentus ir klausėsi erzinančių, veidmainiškų Valdespino pamokymų.
+wavs/LT023-0012.wav|ne tik jos knygas, bet ir jos viešųjų ryšių tekstus, kurie palydi kiekvieną knygą, ir žiūrėti į kruopščiai fabrikuojamas nuotraukas,
+wavs/LT036-0101.wav|Taip, - bejausmiu tonu atsiliepė gidas.
+wavs/LT005-0012.wav|Jei savo produktu negalite pasiūlyti staigaus rezultato, siūlykite greitą, pavyzdžiui:
+wavs/LT036-0193.wav|Savo saugumu, be abejo, reikia pasirūpinti, bet kreiptis į pasaulį verčia moralinė pareiga, - nesiliovė įkalbinėti rabinas.
+wavs/LT008-0113.wav|pasidalyti savo žiniomis apie tą produktą ir paaiškinti, kuo Jūsų produktas ar paslauga yra geresni už kitus.
+wavs/LT038-0205.wav|Iki šio momento nebuvo tikras, kiek galima pasikliauti Edmondo kompiuteriniu gidu, bet dabar, prie kranto atslenkant vandens taksi, nusprendė,
+wavs/LT030-0100.wav|Avila ketino imtis rimto darbo, todėl negalėjo leisti, kad padėtį komplikuotų dar daugiau trukdžių. Regentas nurodė kuo aiškiausiai, kaip atlikti šiandienos misiją.
+wavs/LT034-0221.wav|Pasirodo, atsakymas elementarus, - tarė Kiršas. Dangaus šviesuliai ėmė ryškėti, tarytum įgavo materialumo. Staiga sužvilgo jungiamojo pluošto gijos,
+wavs/LT033-0038.wav|Bėgdamas link vargonų garsų patarnautojas stebėjosi, ką tokio vyskupas žiūri per kompiuterį, kad vaizdai privertė jį užmiršti pareigą Dievui.
+wavs/LT036-0253.wav|Tavo ištikimybė - tikra palaima.
+wavs/LT034-0096.wav|Mes nebūsime saugūs,
+wavs/LT012-0034.wav|Aš jam padėjau surinkti potencialių klientų bazę, paruošti pasiūlymus jo mokymams, rašiau tekstus elektroniniams naujienlaiškiams ir kitiems susijusiems veiksmams bei naujiems produktams.
+wavs/LT037-0113.wav|Nebloga mintis. - Siūlymas padarė jam įspūdį. - Tau vertėtų užpatentuoti idėją. - Nusijuokęs Edmondas vėl susitelkė į reikalus.
+wavs/LT026-0037.wav|kuolą ant galvos tašyti, bet jis turės savo šventą teisę versti iš lietuvių kalbos į anglų kalbą pažodžiui ir būtinai naudodamasis kokiu nors žodynu, sugalvotu ir surašytu
+wavs/LT034-0022.wav|Žvaigždėtas dangus tebuvo projekcija, papildyta mėnuliu, plaukiančiais debesimis
+wavs/LT034-0009.wav|gidas davė perlenktą audinį - visgi ne paplūdimio rankšluostį, o nedidelį pliušinį apklotą su pagalvėle, prisiūta prie vieno jo galo.
+wavs/LT004-0098.wav|Antras žingsnis: kaip matote šis produkto aprašymas yra tikrai nestandartinis ir dar retai kur sutinkamas.
+wavs/LT001-0008.wav|Tikiuosi jums tai patiks.
+wavs/LT030-0126.wav|Jauna moteris dalino ausines.
+wavs/LT030-0206.wav|Visiškai sutinku, - atsiliepė Lengdonas. - Kaip tik todėl į muziejų žmonės dažnai užsuka su mylimaisiais arba draugais. Ausinės tam tikra prasme trukdytų bendrauti.
+wavs/LT038-0138.wav|į kurias pasinerdavai, kai vienas keliaudavai autobusu, žingsniuodavai į darbą arba lūkuriuodavai prieš kokį nors susitikimą, šiais laikais tapo nepakeliamos:
+wavs/LT032-0104.wav|Sintetiniam intelektui, - tęsė balsas, kurio lengvabūdiškas brito tonas atrodė dar keistesnis nei anksčiau, - problemų kelia ne sparti informacijos paieška,
+wavs/LT033-0010.wav|Šįvakar koridoriumi, kuris driekėsi katedros gilumoje, bėgo panikos apimtas patarnautojas.
+wavs/LT006-0033.wav|Prieš atsakydami į klausimą, įdėmiai jį išklausykite.
+wavs/LT013-0209.wav|Kas iš to, jei bus ambasada? Ambasada man pinigų neskolins. Jos niekada neskolina.
+wavs/LT017-0051.wav|Galėtų vietoje šito nuvilkti į kokį nors barą, kur penktadienio vakare trinasi tos drakonų seserys. Tikrai būtų baisiau ir tikrai žmonės ilgiau prisimintų.
+wavs/LT024-0159.wav|Tai jeigu jau taip nori man padėti, gal galėsi paskui pagelbėti su mano vitaminų projektu.
+wavs/LT029-0230.wav|nes taip leptelėdavo toks pat viengungis, kuris monogamiją laikė „evoliucijos įžeidimu“ ir, bėgant metams, nuotraukose pozuodavo vis su kitais supermodeliais.
+wavs/LT030-0202.wav|Jie išgyvena intymesnius ir gilesnius potyrius. - Nenoriu pasirodyti senamadiškas, bet kodėl kiekvieno iš mūsų nevedžioja fiziniai palydovai?
+wavs/LT016-0012.wav|ne taip baisiai, nusikaltę arba šiaip turintys ką nors gėdingo.
+wavs/LT023-0030.wav|Todėl toms moterims būna labai sunku užsisakyti restorane - valgiaraštis neturi ko pasiūlyti teigiančioms: „Aš pati nežinau, ko noriu!“
+wavs/LT034-0178.wav|kaip Mikelandželas jį pavaizdavo „Adomo sukūrimo“ freskoje, nutapytoje ant Siksto koplyčios lubų.
+wavs/LT029-0206.wav|Lengdonas išniro iš po voro ir žingsniuodamas taku dirstelėjo į aukštybėse plevėsuojantį didžiulį raudoną plakatą.
+wavs/LT021-0163.wav|kad į jos pareigas įėjo tikrinti guminių pimpalų kokybę.
+wavs/LT004-0118.wav|Taigi, kai tik vartotojas priima protingą sprendimą (pirkdamas iš Jūsų), būtinai pagirkite jo išmintingumą!
+wavs/LT023-0058.wav|Bet nereikėtų suprasti, kad aš čia moteris niekinu.
+wavs/LT021-0063.wav|Jie ima komercinius pinigus taip noriai, kaip stoties kekšė ima į burną kliento pimpalą, o paskui jis (tas kultūros ir meno darbuotojas, ne kekšė)
+wavs/LT004-0103.wav|Geriant vien sultis organizmas nėra apkrautas kieto maisto virškinimu, nuo jo pailsi.
+wavs/LT004-0076.wav|Baiminatės, kad po birželio devynioliktos žmonės prekės nebepirks?
+wavs/LT023-0094.wav|apsivaikavusių tiesiog nežino priežastinio ryšio tarp spermos išsiliejimo ir palikuonių atsiradimo, o jeigu ir yra apie tai girdėję, mano,
+wavs/LT014-0193.wav|Peteris Langeris akivaizdžiai manęs nepažino. Ir nežinojo, kas aš toks.
+wavs/LT011-0035.wav|Ar tikrai man to reikia dabar?
+wavs/LT001-0055.wav|Po šios dainos pasirodymo, grupė pasirašė kontraktą su leidybine firma “Prior Musica”.
+wavs/LT016-0028.wav|Taip ir mano gyvenimas Anglijoje. Jo nebebuvo. Atsilošiau kėdėje ir pagalvojau, kad aš nežmoniškai alkanas.
+wavs/LT038-0082.wav|Bet Chulijanas viso labo dar sykį abejingai linktelėjo.
+wavs/LT021-0214.wav|Tik rankas gaila tepliotis.
+wavs/LT038-0002.wav|Admirolas Avila, nusimetęs švarką ir uniforminę kepurę, sėdėjo ant užpakalinės sėdynės, mąstė apie sklandų savo pabėgimą ir mėgavosi laisvės pojūčiu.
+wavs/LT037-0252.wav|Lengdonas sulėtino žingsnį, palaukė, kol Ambra mažumėlę nutols, ir prašneko tyliu balsu:
+wavs/LT011-0105.wav|Paruošite detalų veiksmų planą, kaip efektyviai išsaugoti jūsų klientų lojalumą.
+wavs/LT029-0089.wav|Iš viso pasaulio suvažiuodavo gausybė įtakingų krikščionių kunigų, žydų rabinų, musulmonų mulų drauge su induistų pudžariais,
+wavs/LT008-0058.wav|Savo poreikio priežasties dalyvis nepaaiškino, tik pasakė žodelį “nes”.
+wavs/LT015-0112.wav|nei naršymo istorijos, nei mėgstamiausių puslapių, net negalėjau pažiūrėti, kokia buvo jo, arba dabar jau mano, mėgstama pornografija;
+wavs/LT021-0049.wav|Iš tiesų, sakau jums: kuo jie labiau mėgsta kalbėti, kaip nekenčia pinigų, tuo sunkiau juos nuvyti nuo pinigų.
+wavs/LT012-0002.wav|Brangi kolege (ar) Brangus kolega,
+wavs/LT022-0125.wav|- Tai kad palauk, jie dar nesiženija, - bandė įsiterpti vyras (paskui sužinojau, kad jo vardas Gintaras), bet teta Jūratė neatlyžo. - Nieko tokio, kad nesiženija,
+wavs/LT015-0034.wav|man ištrynė atmintį, ir aš jau seniai gyvenu čia, ir tiesiog nebeprisimenu istorijos, kaip patekau į Lietuvą?
+wavs/LT015-0101.wav|Elektroniniame pašte radau savo mokesčių deklaracijas, kurias man siuntė finansininkė prieš deklaravimo datą,
+wavs/LT017-0049.wav|inscenizuotą ir dirbtinį siaubo spektaklį apie senųjų laikų Londoną su mirties bausmėmis ir žiaurumais, kur tamsoje žmones
+wavs/LT032-0228.wav|ir visatos slėpinius. Konfliktus dažniausiai kursto ne turinys, o semantika.
+wavs/LT032-0108.wav|Nieko panašaus. - Vėl nuskambėjo nejaukus juokas. - Man. Nusprendė pažiūrėti, ar jus įtikinsiu, kad esu žmogus.
+wavs/LT014-0084.wav|Arba buvau gimęs - nes iš to pažymėjimo dabar atrodė, kad aš gimiau tūkstantis devyni šimtai aštuoniasdešimtaisiais metais, spalio dvidešimt šeštą dieną Kaune.
+wavs/LT029-0252.wav|Robertai, Kai akis į akį susidursim mes, Tau žadu parodyti tuščias erdves. - Edmondas
+wavs/LT002-0201.wav|Kaip kurie žmonės nori jaustis saugūs, todėl nori patikimo automobilio.
+wavs/LT006-0039.wav|Prieštaravimų nereikia pernelyg sureikšminti (tai gali būti paprasčiausias klausimas).
+wavs/LT007-0002.wav|Šis reiškinys puikiai paaiškina, kodėl televizijos laidų rengėjai po pokštavimų paleidžia besijuokiančių žmonių garso takelį.
+wavs/LT031-0110.wav|pranešė Vinstonas.
+wavs/LT002-0079.wav|„Turbūt būtų kvaila sėdint kavinėje kalbėti apie svorio metimą bei sporto klubus. Tačiau, galbūt papietavę,
+wavs/LT029-0128.wav|Kiršas maloniai jam nusišypsojo ir spustelėjo ranką.
+wavs/LT018-0082.wav|Net pasakodamas, kaip ji taip daro, šnypšdavo ir tampydavo šnerves iš įniršio.
+wavs/LT035-0134.wav|prie genetinių tyrimų laboratorijų piketuojančių žmonių gretos, šalia pastato, kur vyko transhumanistų konferencija,
+wavs/LT002-0190.wav|Šie faktai emociniam pirkimui bus lyg “logiškas pateisinimas”.
+wavs/LT016-0193.wav|- Mane čia atsiuntė dėl rūsio nuomos. Robertas, sakė čia jis nuomoja rūsį, atėjau pasižiūrėt.
+wavs/LT031-0091.wav|Tikrai? - nustebo Kiovešas. - Ar jis gerai jaučiasi?
+wavs/LT014-0091.wav|Mano nuotraukos. Arba Merkio Kazlausko nuotraukos. Varčiau visas iš eilės.
+wavs/LT004-0031.wav|Tačiau ši reklama neperteikia minties „Mes suprantame Jūsų poreikius ir galime juos patenkinti.“
+wavs/LT005-0008.wav|Magiška akimirka
+wavs/LT012-0028.wav|todėl ir pradėjo kurti savo verslą.. Wow.
+wavs/LT037-0140.wav|Edmondas vėl ėmė juoktis iš jos nuogąstavimų.
+wavs/LT027-0084.wav|Arūnas neatlyžo.
+wavs/LT016-0194.wav|Čia aš turiu raktą, pagalvojau, kad kišenėje turiu raktų ryšulį, jeigu ką, galėsiu parodyti.
+wavs/LT039-0067.wav|Sąmokslų teorijos. - Priėjusi moteris pamostagavo planšete. - Jos plūsta iš visur.
+wavs/LT011-0032.wav|Tai yra pirmas žingsnis: Štai ką aš Jums turiu paruošęs
+wavs/LT028-0137.wav|Mama žinojo, kad sūnus mėgsta siuntinėti skundus, bet tam ne visada turi lėšų: pašto ženkliukai nebuvo nemokami, be to, reikėjo ir vokus, ir popierių pirkti.
+wavs/LT026-0030.wav|(nes jei nufotografuotas kavos servizas, nuotraukoje turi būti arbata, kitaip nebūna), rusiškas išpieštas
+wavs/LT039-0017.wav|Vade? - nedrąsiai prasižiojo Fonseka. - Nepykite, sere, bet turiu blogų naujienų. Ponia Vidal ir amerikiečių profesorius apleido muziejų...
+wavs/LT016-0184.wav|Atkėliau rūsio duris ir įlipau vidun. Jau ketinau pasišviesti telefonu, bet pamačiau ant namo sienos didelį, aptrintą, baltą jungiklį, ir kaipmat įsižiebė šviesa.
+wavs/LT018-0117.wav|Taip išeina, kad visi jį skaito.
+wavs/LT038-0208.wav|Jūsų britas... jis man skambino, - tarė. - Pažadėjo, kad labai svarbus klientas sumokės trigubai už... kaip ten sakoma... velocidad y discretion?
+wavs/LT032-0201.wav|ir šešioliktame amžiuje įžiebė mokslinę revoliuciją, kuri nušlavė nuo senų laikų įsigalėjusį Bažnyčios mokymą, kad žmonės yra Dievo visatos centre.
+wavs/LT033-0191.wav|Ūžė šimtai nekantraujančių svečių, didžiuma jų paskutinę akimirką kažkam skambino telefonu,
+wavs/LT029-0168.wav|Lengdonas pastoviniavo mąsliai spoksodamas į šunį, o po kelių minučių patraukė pėsčiųjų taku, tįstančiu viršum vandens, ir ėmė leistis
+wavs/LT020-0112.wav|tai treniruodamas antrojo ešelono rusų klubus, tai būdamas antruoju treneriu; o dabar dirbo gimnazijoje fizinio auklėjimo mokytoju
+wavs/LT016-0155.wav|Panašu, kad jau pradėjau orientuotis. Aistė Skaistytė, jautėsi, kažko norėjo klausti, bet trypčiojo vietoje ir kalbėjo apie bereikšmius dalykus, tęsdama pokalbį.
+wavs/LT031-0054.wav|kaip išplatinti tokią informaciją, kad ji skambėtų negrėsmingai. - Jis sunkiai atsiduso. - Ir nepamirškime ponui Kiršui duotos priesaikos laikyti žinią paslaptyje.
+wavs/LT001-0056.wav|Du tūkstančiai devintais metais Martynas, kartu su Algirdu Karaliumi įkūrė didžiausią pardavėjų ebendruomenę Lietuvoje -
+wavs/LT028-0075.wav|Rasa, nenusiėmusi savo sekso žaisliuko, lakstė po teritoriją,
+wavs/LT002-0120.wav|Pirmajame pavyzdyje savybe laikomas motoriukas, kuris stumia krepšį su golfo lazdomis,
+wavs/LT036-0040.wav|Žiniasklaida kaipmat pareiškė, kad Ambra Vidal yra „ideali pora šiuolaikiniam karaliui“.
+wavs/LT007-0052.wav|Žymaus žmogaus buvimas reklamoje padės kurti įvaizdį ir reklamuoti produktą.
+wavs/LT028-0101.wav|tačiau pasirodė apsauga ir tą vyrą išsivedė.
+wavs/LT035-0053.wav|Daug didesnį rūpestį kėlė džiaugsmingas Chulijano pranešimas aną mėnesį,
+wavs/LT016-0054.wav|nors, tiesą sakant, atrodė, kad jam viskas skanu.
+wavs/LT030-0008.wav|Bėgant metams standūs juodi smakro šeriai užleido vietą dailiai žilstelėjusiai švelnesnei barzdai,
+wavs/LT032-0091.wav|Edmondas investavo milijardus.
+wavs/LT026-0081.wav|Ateini čia, nuopisa. Kažko norėjai?
+wavs/LT018-0140.wav|Bet aš tave pertraukiau. Tu apie naujienas kalbėjai. Apie mano geras ir blogas naujienas sakei.
+wavs/LT023-0148.wav|Pradėjau vaikščioti Vilniuje į vieną
+wavs/LT032-0125.wav|Bet tai buvo gan seniau suvokė Lengdonas. Jis žinojo, kad Kiršas seniai domisi dirbtiniu intelektu ir retsykiais puikuojasi ant žurnalų viršelių,
+wavs/LT004-0037.wav|Jokio nerimo, jokio laukimo!
+wavs/LT023-0076.wav|kad jos visos išvyksta velniop iš šalies ir tampa manekenėmis ir aktorėmis. Visos kitos slampinėja po šalį kaip bulvės su kojomis ir rankomis,
+wavs/LT018-0130.wav|buvo vienas iš tų, kurių galvoje keli gyvenimai, keliolika universitetų ir daugiau knygų, negu kada nors buvo parašyta.
+wavs/LT023-0093.wav|o gal dar prisideda ir tai, kad dauguma per durnumą
+wavs/LT024-0086.wav|Jis kuria kvepalus. Ir tu su juo bendrauji, galbūt dirbi ir jis tavo kolega.
+wavs/LT037-0091.wav|Lengdonas išginė šią mintį iš galvos.
+wavs/LT006-0024.wav|Jei suklydau, ar galėsiu susigrąžinti pinigus?
+wavs/LT020-0030.wav|Aistė patylėjo. Girdėjosi, kad ji galvoja.
+wavs/LT030-0131.wav|kurių numeris sutapo su skaičiumi, pažymėtu greta jo vardo.
+wavs/LT031-0162.wav|Neleisiu, - nusišypsojo Lengdonas. - Bet pripažinsiu, kad tavo analizė suteikė peno apmąstymams.
+wavs/LT018-0011.wav|Kam griauti paskutinę iliuziją?
+wavs/LT019-0065.wav|Ji nuolatos mane auklėdavo ir, susitikusi su draugėmis, visą laiką skųsdavosi, kad visų vaikai kaip vaikai, o jos sūnus štai toks netikęs.
+wavs/LT018-0019.wav|jį viskas erzino, ir aš jaučiausi, tarsi be reikalo stengčiausi, bet iranietis (arba persas, kaip jis pats save vadino pagal senąjį savo šalies pavadinimą)
+wavs/LT018-0004.wav|Fardine Ashur, arba lietuviškai - Fardinas Ašūras, mano draugas iš Londono.
+wavs/LT017-0083.wav|- Merky, aš tavęs taip pasiilgau, Merkiukai.
+wavs/LT020-0100.wav|po vienų vaišių, kad senais laikais buvo toks Lietuvos Didžiosios Kunigaikštystės kunigaikštis, ir nors tokio kunigaikščio nebuvo istorijoje,
+wavs/LT022-0101.wav|Ji buvus mokytoja ir pripratus aiškinti, ir dar labai mėgsta sakyti kalbas prie stalo, pamatysi, ji išsitrauks visą bloknotėlį.
+wavs/LT011-0146.wav|Taigi, tai ir buvo psichologiniai mygtukai, technikos ir sprendimai nuolat dirbantys savo atsakingą darbą ir padedantys žmonėms greičiau priimti sprendimą įsigyti produktus ir paslaugas.
+wavs/LT031-0116.wav|Lengdonas nujautė, kad gidas skaito iš anksto paruoštą tekstą.
+wavs/LT029-0003.wav|Dan Brown "Kilmė"
+wavs/LT018-0145.wav|ne, aš dar ne viską buvau mačiusi, didi yra mūsų pasaulio įvairovė, didis yra Dievo kūrinys.
+wavs/LT028-0054.wav|Korespondentai išbėgo siųsti nuotraukų į portalus, išskyrus vienintelį -
+wavs/LT035-0045.wav|ką religijų žinovai jau praminė „šventvagišku, antikrikščionišku viešųjų ryšių spektakliu“.
+wavs/LT035-0031.wav|Edmondas teigė ruoštųs mokslinę programą.
+wavs/LT028-0165.wav|bet kartais dar šiek tiek ir pasiseka.
+wavs/LT039-0076.wav|Naujai įdiegtos technologijos, regis, atsekdavo tiek Guardia Real agentus, tiek patį gvardiečių vadą.
+wavs/LT001-0053.wav|(įvertinus faktą, kai tai tebuvo vienkartinis ir trumpalaikis eksperimentas, tiriantis marketingo taktikų veiksmingumą).
+wavs/LT039-0032.wav|įQuė diablos ha pasado? - tūžmingai sušnypštė į mobilųjį. Kas, po velnių, nutiko?
+wavs/LT038-0133.wav|Štai paprasčiausias prisižadėjimas, mintyse tarė rabinas, palietęs vieną iš spynų. Mano siela amžinai prirakinta prie tavosios.
+wavs/LT034-0007.wav|kurie svečius ragino eiti pro skraistės tarpą, prieš tai kiekvienam įteikdami iš pirmo žvilgsnio po storą paplūdimio rankšluostį.
+wavs/LT013-0106.wav|Tai jai bus dar keisčiau.
+wavs/LT032-0221.wav|Žinoma. Bet aš prieštaravau aiškindamas, jog religija tūkstantmečius atlaikė mokslo pažangą,
+wavs/LT007-0006.wav|Daugeliui mūsų pritarti kitų mintims yra daug priimtiniau ir patogiau, nei išsiskirti savomis.
+wavs/LT001-0019.wav|Išleido M B “Martyno Šaikaus projektai”, du tūkstančiai penkioliktieji
+wavs/LT003-0044.wav|Net jei Jūsų esami ar potencialūs klientai yra patys nuostabiausi žmonės pasaulyje, nei Jūs, nei Jūsų verslas ar filosofija jiems nerūpi.
+wavs/LT030-0214.wav|Lengdonas gerai žinojo, ką reiškia šis ženklas, bet niekada nebuvo jo matęs ant kepurių.
+wavs/LT017-0043.wav|dar padabintais apsilupusiais nagų lako likučiais.
+wavs/LT014-0042.wav|Ketvirtas skyrius. Piniginė.
+wavs/LT016-0026.wav|Kuo daugiau ieškojau, tuo mažiau buvo vilties ką nors surasti, nes tai buvo tas pats, kas gaudyti savo šešėlį ir bandyti jį užminti ant žemės.
+wavs/LT002-0101.wav|turėjo problemų su sporto įranga arba galbūt planuoja dar iki metų pabaigos nutraukti savo veiklą.
+wavs/LT001-0001.wav|﻿Jeigu tokia knyga jau lietuvių būtų buvusi parašyta, tuomet nedrįsčiau.
+wavs/LT023-0075.wav|Taip baisiai, kaip Anglijos moterys (arba dar baisiau), atrodo tik moterys Airijoje, kur gražių ir susitvarkiusių moterų yra tiek nedaug,
+wavs/LT032-0229.wav|Na, tavo patarimo paklausiau. Konsultavausi su dvasiniais lyderiais, išdėsčiau jiems, ką atradau.
+wavs/LT023-0038.wav|užsidengusiomis tūkstantis devyni šimtai dvidešimtūjų metų Berlyno viešnamio stiliaus vualiais, besifotografuojančiomis rūmų interjeruose
+wavs/LT020-0020.wav|Taip, sakau, grįžau. - Ir ką? Radai ten save? - Aistė bandė juokauti,
+wavs/LT006-0009.wav|Šešioliktas. TIESOS MYGTUKAS
+wavs/LT021-0088.wav|Supratau ir tai, kad ten niekas
+wavs/LT002-0152.wav|Asmeninio pasitenkinimo troškimas
+wavs/LT033-0091.wav|vis dėlto kolega prisiekė girdėjęs Saido nepaliaujamai kartojamą vardą ir pavardę. Edmondas Kiršas.
+wavs/LT023-0079.wav|panašėja į natūralų smirdantį bomžą.
+wavs/LT004-0086.wav|GERAS SPECIFIŠKUMO PAVYZDYS
+wavs/LT014-0204.wav|Daugiau jokių artimųjų numerių atmintinai nežinojau. Internete radau savo nekilnojamojo turto agentūros numerį.
+wavs/LT038-0021.wav|Tačiau pasaulyje dar liko kovotojų už senuosius papročius.
+wavs/LT037-0068.wav|Lengdonas be jokių dvejonių linktelėjo.
+wavs/LT030-0110.wav|Artėjant prie statinio, priešakyje pasirodė tuzinai svečių, kurie zujo išsipustę gražiausiais juodais ir baltais apdarais.
+wavs/LT029-0251.wav|„FedEx“ voke dar buvo įdėtas ir nespalvotas vienas į kitą atsigręžusių žmonių atvaizdas. Maža to, Edmondas jam sukurpė dvieilį:
+wavs/LT029-0078.wav|Tuomet kai klausiau, ar galiu akis į akį pašnekėti su jumis ir jūsų kolegomis, apskaičiavau turįs vos dvidešimties procentų tikimybę, jog mano prašymą išpildysite.
+wavs/LT035-0094.wav|kad dangaus skliautas beveik išbalo. Bet užrašai galop dingo, liko vien tik šviesuliais spindinčios padangių platybės.
+wavs/LT014-0159.wav|Aš turiu daryti kai ką svarbesnio, o aš uostau kvepalus, apžiūrinėju skustuvą ir galvoju apie Kalėdų dovanas.
+wavs/LT029-0097.wav|bet kartu puikiai suprato, jog dabartinė viešnagė neatsiejama nuo tam tikros puikybės
+wavs/LT023-0134.wav|„Nekalbėk apie tai, ko nesupranti, ar sutarėm?“) ir tai daro šlykščių patronizuojančiu tonu, nes patys yra šlykštūs.
+wavs/LT032-0179.wav|Virš galvų tvieskiančios lempos staiga priblėso ir vėl skaisčiai nušvito.
+wavs/LT018-0044.wav|- Timai, labas. Aš dabar Amerikoje, paprastai nekeliu, kai skambina iš nepažįstamų numerių, bet laukiau čia vieno skambučio iš meksikiečio, pamačiau šitą numerį, galvoju, gal čia Meksikos kodas.
+wavs/LT029-0229.wav|Draugiškai pašaipi replika apie šeiminę Lengdono padėtį skambėdavo ypač ironiškai,
+wavs/LT034-0175.wav|Jo garbintojai su tokiu užsispyrimu vengė išsižadėti tikėjimo,
+wavs/LT034-0179.wav|Šiandien mes nebetikime istorijomis, kokios pasakojamos apie Dzeusą - apie ožkos augintą berniuką, kuriam išsikovoti aukščiausią valdžią padėjo
+wavs/LT025-0016.wav|Jūs tikras, kad dabar turiu rinktis?
+wavs/LT037-0076.wav|Podraug matė, kaip Ambra atsainiai žingsniuoja į vejos vidurį ir taip pat šneka mobiliuoju - bent jau apsimeta kalbanti, kaip Lengdonas jai siūlė elgtis.
+wavs/LT006-0053.wav|Dėl dešimtmečius trukusių perdėtų pažadų ir absoliutaus melo prekybininkai savo produktus parduoda „skepticizmo amžiuje“.
+wavs/LT002-0178.wav|HD video rezoliucija, todėl Jūsų filmuojami vaizdai įamžins visas svarbiausias gyvenimo detales: -
+wavs/LT030-0120.wav|Netoliese, palei sieną, leidosi stiklinis liftas, grįžtantis žemyn paimti daugiau svečių.
+wavs/LT002-0041.wav|Bet štai, jeigu jau vienas žmogus atvertų tą pirmąjį laišką, tai jį pasitiktų toks sakinys -
+wavs/LT036-0052.wav|kuri darys neigiamą įtaką būsimam karaliui. Savo teiginius grindė tuo, kad ji akiplėšiškai nesiskaitė su princo reputacija.
+wavs/LT029-0233.wav|nevengė įžymybių draugijų, puikavosi madingiausiais apdarais, klausėsi paslaptingos andergraundo muzikos,
+wavs/LT029-0076.wav|Jei atvirai, niekada nesitikėjau, kad rasiu priežastį matytis su jų galva. Žinote, jus vadina pranašu.
+wavs/LT021-0203.wav|Pradažna škūra, kiek tau mokėjo, kad ant Druskininkų stumtum! Ša!
+wavs/LT031-0059.wav|kurias ponas Kiršas neigia, šią medžiagą derėtų pranešti neišgąsdinant savo bendruomenių.
+wavs/LT021-0066.wav|nes jis nebe meras ir naujų dirbtuvių neduos.
+wavs/LT001-0073.wav|Tačiau praėjus tiek metų, ši knyga ne tik, kad neprarado savo aktualumo, bet ji tapo dar aktualesnė ir svarbesnė, nei bet kada anksčiau.
+wavs/LT001-0059.wav|pažadink atkaklumo galią” marketingo kampaniją.
+wavs/LT023-0035.wav|Kristina Sabaliauskaitė yra jų svajonių krikštamotė, įgyvendinusi tai, ko jos pačios norėtų, bet negali:
+wavs/LT023-0099.wav|ne, jis dar yra ir puikus vairavimo instruktorius ir gali pamokyti ką tik nori vairavimo meno, ypač moteris, nes moterys jam yra durnos ir silpnos.
+wavs/LT038-0058.wav|Bet į stuksenimą niekas neatsakė.
+wavs/LT020-0089.wav|sukaitusios ir kvepiančios manimi, galvojau, kad gal net ir pavydžiu, jog ji iki manęs turėjo mane.
+wavs/LT031-0193.wav|Ar matote atitvertą koridorių, kuris driekiasi į dešinę nuo centrinių langų? Lengdonas pažvelgė dešinėn.
+wavs/LT036-0156.wav|Lengdonui prireikė akimirkos, kol jis perprato naujienos esmę.
+wavs/LT034-0039.wav|„Plikos viršukalnės“ golfo aikštyno pievoje, kad su geriausiu draugu aptartų gyvenimo slėpinius.
+wavs/LT029-0054.wav|Kaltas, - nusišypsojęs Kiršas atkišo delną ir paspaudė kaulėtą jo ranką. - Vyskupe Valdespinai, ačiū, kad suorganizavote šitą susitikimą.
+wavs/LT019-0062.wav|Mano mama Felicija Kazlauskienė labai kritiškai vertino mano darbą ir užsiėmimus. Jai neatrodė, kad yra rimta būti dizaineriu,
+wavs/LT011-0033.wav|Ar tai tikrai man duos tai, ko man reikia ir ko aš noriu?
+wavs/LT024-0034.wav|Gal tu nori paskaičiuoti ir pasižiūrėti? Šūdą tu ten turėjai.
+wavs/LT027-0087.wav|Nuklojusi sau nuo galvos antklodę, Aistė žiūrėjo į mane.
+wavs/LT034-0159.wav|Poseidonas pradingo virtęs dūmų debesėliu.
+wavs/LT038-0219.wav|Bičiulis liepė jį perduoti taksistui, bet tikriausiai nė neįtarė, kad tas vairuos vandens transportą.
+wavs/LT036-0298.wav|Jį sudaro statmena linija, kurią kerta trys skersinės. Vertikaliosios viršuje - aukštyn kojomis apversta arka.
+wavs/LT031-0080.wav|Aš jus labai gerbiu, bet jei nemelsite, kad Viešpats atimtų mokslininkui gyvybę anksčiau, nei jis paskelbs...
+wavs/LT033-0059.wav|Į vyruką žiūrintis Avila nevalingai sugniaužė kumščius.
+wavs/LT018-0148.wav|Nes aš ne pirmą kartą girdžiu apie tai, kas atsitiko tau. Tik nežinojau, kad kada nors pamatysiu tai iš arti.
+wavs/LT013-0179.wav|Aš tariau žodžius ta kalba, kurios pavadinimo nežinojau. Dar pastebėjau, kad ištariau septYni, aštUOni, devYni.
+wavs/LT027-0095.wav|tai aš nebūčiau šito patyręs.
+wavs/LT018-0086.wav|Fardinas Ašuras. Ta prasme įsivaizduok, jei tave prisimintų tik koks nors žuvies ir bulvyčių pardavėjas prie tavo namų.
+wavs/LT039-0010.wav|Quė tel va? Kaip sekasi?
+wavs/LT017-0152.wav|aš išmaniau jo nuotaikas ir įpročius. Dabar stengiausi neišsiduoti, nes man labai norėjosi kalbėtis su juo kaip su savu, o jis su manimi, savaime suprantama,
+wavs/LT035-0186.wav|Lengdonas išsitraukė ausines ir negrabiai jas užsidėjo.
+wavs/LT030-0044.wav|Kad aš prasmegčiau! - užbliovė vienas iš atvykėlių, žiopsodamas į paradinę uniformą. - Juk čia Ispanijos karalius!
+wavs/LT016-0089.wav|Kadangi užsisakinėjau angliškai, pastebėjau skirtumą: net ir visiškai kvaila ir žiopla būdama, padavėja, rodos, atsigavo ir pradėjo lakstyti greičiau, ir net bandė šypsotis.
+wavs/LT029-0184.wav|Skubėdamas susidėti daiktus, iš spintos pagriebė ne tą kelioninį drabužių maišą ir namie palika įprastą smokingą.
+wavs/LT035-0009.wav|Jie nė nenumano, kokios staigmenos sulauks.
+wavs/LT033-0057.wav|Jam plačiai šypsojosi smokingu apsirengęs pilvotas vyras su kaubojaus skrybėle.
+wavs/LT011-0064.wav|Trečias žingsnis: Štai ką dabar reikia padaryti, kad tai gautumėte
+wavs/LT004-0093.wav|Tačiau tiems, kam to nepakanka, gali skaityti daugiau (o ten dar geresnis tekstas).
+wavs/LT018-0132.wav|iš eilės, mokėjo knygos esmę suprasti per trisdešimt sekundžių, tiesiog pervertęs ją ir paskaitęs kelias pastraipas.
+wavs/LT018-0042.wav|Man šiurpas nubėgo per nugarą, nes jis man atsiliepė irgi lygiai taip pat - lyg pastarųjų dienų įvykių nebūtų buvę.
+wavs/LT031-0041.wav|beveik kiekvieną pripažintą religinę doktriną, ir tai darė pritrenkiamai elementariu, įtikinamu būdu.
+wavs/LT019-0091.wav|- Ką tu, ką tu, kam tos gėlės; gerai, kad atėjai, be to, turbūt nenorėjai su manim varžytis su tom gėlėm.
+wavs/LT019-0019.wav|Santuoka yra svarstyklės. Visada turi būti daugiau priežasčių būti kartu negu priežasčių nebūti kartu.
+wavs/LT036-0144.wav|Mane... tiesiog pritrenkė naujiena, kad Edmondą nužudė Ispanijos jūrų karininkas.
+wavs/LT038-0056.wav|Donui Chulijanui reikės patarimų, ir imtis konsultanto darbo teks man, nes jo tėvą pakirto liga.
+wavs/LT014-0050.wav|Dabar jau žinojau, kad kalbu lietuviškai, ir mane stebino tai, kad manęs tai nebestebina.
+wavs/LT003-0157.wav|Jos padeda kurti potencialių klientų kontaktų bazę ir su jais palaikyti ryšį reguliariais naujienlaiškiais, nemokamu naudingu turiniu ir jau tuomet
+wavs/LT024-0135.wav|Tu turėjai blogą santuoką, betikslį darbą ir gyvenimą be spalvų. Tu dabar šito nepripažįsti, bet širdies gilumoje nesusitaikei su tuo kaip kiti anglai,
+wavs/LT015-0113.wav|užtat radau paprastų, ne nepadorių filmų vertinimų ir supratau, kad jam, kaip ir man, labiausiai patiko veiksmas,
+wavs/LT033-0073.wav|Jeigu kas nors Avilą sulaikys, tikino regentas, užteks parodyti delną, ir jis po kelių valandų atgaus laisvę.
+wavs/LT028-0138.wav|Vainikis gulėjo ant žemės ir galvojo, kad jo pavardė yra panaši į žodį „vatnikas“
+wavs/LT033-0262.wav|Nutilusi Ambra užmetė akį į savo auksinį laikrodį. - Edmondas renginio eigą apskaičiavo sekundžių tikslumu, todėl dabar, jo nurodymu, vesiu jus ana ten -
+wavs/LT017-0167.wav|Atrodė, jei tik turėčiau kur gyventi, galėčiau Anglijoje įsikurti ir vėl, ir niekas net neįtartų, kad aš ne toks, kaip visi.
+wavs/LT037-0207.wav|Prie jo pritaisyta iškaba skelbė ekspozicijos pavadinimą: NARVAI.
+wavs/LT036-0139.wav|Ponia Vidal, - pakartojo Fonseka. - Admirolas Luisas Avila - ar su šiuo vardu jums teko susidurti praeityje?
+wavs/LT025-0069.wav|Dar reikės mesti kitą moterų organizaciją, kuri garsiai švęs tai, kad pagaliau vyrai gaus vitaminų ir labai ilgai išliks vyriški.
+wavs/LT030-0069.wav|Avila, kuris po šiandieninės ilgos kelionės jautėsi nusiplūkęs, giliai įkvėpė ir mostelėjo į barą. - Ponai, prašau sėstis. Aš pastatysiu jums alaus.
+wavs/LT011-0045.wav|Skelbiame dalykinių drabužių išpardavimą, kurio metu jūs patinkančią aprangą galite įsigyti net su penkiasdešimt procentų nuolaida.
+wavs/LT008-0026.wav|Pripažinkime, jei pateikiate ypatingą pasiūlymą, pavyzdžiui, suteikiate penkiasdešimt procentų nuolaidą padangoms arba, perkant vieną avalynės porą, kitą dovanojate nemokamai, –
+wavs/LT019-0159.wav|Koks skirtumas, turbūt šiaip manęs nemėgsta.
+wavs/LT033-0167.wav|tūkstantis šimtas“ bagis staigiai metėsi kairėn ir kiek pačiuožęs sustojo, priešais tvieskiančius žibintus sukeldamas smėlio skraistę.
+wavs/LT011-0130.wav|TAIGI, JEIGU KARTAIS PAJAUČIATE STAGNACIJĄ AR TIESIOG TROKŠTATE PADARYTI DAR DIDESNĮ PROVERŽĮ ŠIAIS METAIS, JUMS TIESIOG REIKIA ŠIO SEMINARO ĮRAŠŲ
+wavs/LT017-0111.wav|Nes jeigu aš patikėsiu tuo, ką čia man papasakojai, tai man bus labai, labai blogai.
+wavs/LT037-0209.wav|Ponia Vidal! - sušuko Fonseka. - Pone Lengdonai!
+wavs/LT023-0193.wav|(o gal ir skutasi) įvairias vietas, ir abejonės neišsisklaidydavo.
+wavs/LT012-0099.wav|Šis depozitas yra grąžinamas bet kokiomis aplinkybėmis. Jis skirtas tik tam, kad aš būčiau tikras, jog jūs rimtai nusiteikę ir nenorite gaišinti savo ir mano laiko.
+wavs/LT026-0013.wav|Kas nematė Palangos vasarą, sezono metu, tas niekada iki galo nesupras Lietuvos.
+wavs/LT034-0053.wav|Nepamiršk, kas pastatyta ant kortos. Tu esi kilnioje kovoje dalyvaujantis kareivis. Didingesnės visumos dalis.
+wavs/LT036-0318.wav|Lengdoną vėl apstulbino pašnekovo darbo tempas. Jis jau identifikavo kompanijos emblemą?
+wavs/LT029-0172.wav|Dabar jau būsiu matęs viską.
+wavs/LT031-0097.wav|Šįvakar?! - sušuko Kiovešas. - Bet Kiršas tikino paskelbsiąs informaciją tik po mėnesio!
+wavs/LT031-0188.wav|Improvizuota paskaita tikrai būtų nudžiuginusi Edmondą. Nedaug kas geba iššifruoti jo kūrinį.
+wavs/LT029-0274.wav|Lengdonas trumpam sustojęs pasigrožėjo regėjimo apgaule ir nužingsniavo per minimalistinio stiliaus tiltelį,
+wavs/LT002-0181.wav|LOGIKA MARKETINGO SRITYJE
+wavs/LT027-0106.wav|ir mažyčių namų, ir blogo oro, remdamasis tik savo senais prisiminimais apie tą šalį, ar man tiesiog reikėtų pasiimti į rankas tą loterijos bilietą, kurį davė likimas,
+wavs/LT023-0027.wav|Geriausia, jei tos gudrios moterys suvarto vyrus, tuos dominuojančius kiaules.
+wavs/LT038-0110.wav|Situacija ne religinė, o politinė, - ryžtingai atsakė Garsa. Dvasininkas pašaipiai šnarpštelėjo.
+wavs/LT021-0106.wav|o kad jūs pats, pasirodo, esate viena iš beždžionių, ir nieko nestebina tai, kad jūs esate beždžionė, ir niekas nesistebi, kad jūs su uodega.
+wavs/LT034-0242.wav|Jei kas nors tranko per pianiną, triukšmas būna nepakeliamas! Bet jeigu natas sudėliosime tvarkingiau...
+wavs/LT031-0019.wav|Stalą dengė pustuzinis bet kaip išmėtytų miglotų religinių tekstų, ir praskleisti puslapiai buvo apklijuoti lipukais su pastabomis.
+wavs/LT002-0126.wav|o ne apie savo interesus.
+wavs/LT037-0246.wav|Greičiausiai. Ir vienas jų buvo vyskupas Valdespinas iš Madrido.
+wavs/LT018-0109.wav|A, tu apie Grigaitį dar nieko nežinai, - kalbėjo Fardinas, lyg neišgirdęs klausimo, iš kur jis žino apie Lietuvą. - Aš su juo susipažinau Los Andžele, man jį pristatė.
+wavs/LT034-0028.wav|Lengdonas atsiminė pirmą kartą, kai juslės susuko jam galvą.
+wavs/LT029-0126.wav|Žemaūgis drūtas vyras buvo geraširdiškų bruožų, nederančių su tamsiomis, skvarbiomis akimis. Vilkėjo paprastą baltą tobą.
+wavs/LT028-0096.wav|Dabar jis buvo pasiryžęs ne juokais visus smerkti kiekvienu patogiu atveju, ir šią savaitę buvo eilė visus lietuvius paskelbti naciais ir homofobais.
+wavs/LT011-0132.wav|bet sutikite, kad ir rezultatai bus tie patys, kuriuos visada gaudavote.
+wavs/LT024-0041.wav|Fardinas akivaizdžiai buvo užsidegęs, mano angliškas anglo atsakymas anglišku stiliumi jį įsiutino.
+wavs/LT036-0208.wav|Kiovešas akimirką patylėjo.
+wavs/LT032-0090.wav|nesudėtingas. Jį sėkmingai mėgdžioja netgi devyniasdešimt devynis dolerius kainuojančios elektroninės skaityklės.
+wavs/LT017-0188.wav|- Žinutę išsiunčiau, dėkoju, ar dar kuo nors galiu padėti?
+wavs/LT034-0231.wav|Kitaip sakant, mes nekalti, kad tikime beprotiškais dalykais.
+wavs/LT020-0071.wav|- Taip, tik dabar, o ką?
+wavs/LT004-0111.wav|Vienai dienai gausite šešis šalto, lėtaeigiu spaudimu pagamintus sulčių kokteilius po penkis šimtus mililitrų.
+wavs/LT033-0152.wav|Ir sakė tiesą, - bemat užtikrino Vinstonas. - Profesoriau, programa tuojau prasidės.
+wavs/LT001-0094.wav|Šie mygtukai gali tapti pačiu laiku atrastu raktu į dar didesnius jūsų pardavimus ir pajamų augimą.
+wavs/LT028-0058.wav|Todėl ir vaiką pavadino pagal anglų rašytojo romaną apie Indijos džiungles.
+wavs/LT016-0169.wav|Atrodė, kad mano lūpomis kalbėjo kažkas kitas. Vėl pasijutau atliekantis vaidmenį ir žinojau tekstą.
+wavs/LT003-0121.wav|kai paprastas leidinys parduodamas tik dvidešimtvieno milijono tiražu.
+wavs/LT030-0014.wav|Ispanijos armada nebėra galingiausias karinis jūrų laivynas pasaulyje, bet mes tebemokame aprengti savo karininkus.
+wavs/LT023-0159.wav|kai dar Lietuvoje striptizo nebuvo, lietuviai, nuvažiavę į Londoną ir Paryžių, kur ėdė atsivežtas rūkytas dešras bei kietai virtus kiaušinius
+wavs/LT015-0044.wav|Pagalvojau, kas dar vyko. Lyg ir kažką planavau ateinančią savaitę. Kažkokius susitikimus - lyg ir užrašyti telefone, tvarkaraštyje. Kurio neturiu.
+wavs/LT002-0137.wav|Marketingo srityje niekuomet nebūsite per senas tikėti Kalėdų Seneliu ar bent jau pasimokyti iš seno, linksmo nykštuko.
+wavs/LT035-0183.wav|Instinktyviai griebėsi telefono, bet atsiminė, kad aparatas išjungtas.
+wavs/LT022-0039.wav|todėl kad jos turi iliuzijų, kurių nenori prarasti. Joms atrodo, kad keistas, žurnaluose ir televizijoje matomas žmogus iš miesto keistu vardu Merkys
+wavs/LT031-0029.wav|Pradžioje Dievas sukūrė dangų ir žemę.
+wavs/LT021-0006.wav|visa praeitis, kontaktai, patirtys, profesijos, artimieji; jie gyvena toje šalyje, nesukeldami niekam įtarimų, ir tarnauja kitai šaliai.
+wavs/LT020-0010.wav|Žinojau, kad kai atsiras istorija, kad kai būsiu ją laikęs rankose,
+wavs/LT027-0045.wav|Ošė pušys, ir aplink buvo tikra idilė, jei ne tie prisiminimai apie tai, ką mačiau prieš kelias minutes mieste.
+wavs/LT013-0123.wav|Žmonės per kelias valandas nesunkiai išprotėja arba miršta nuo visiškos nežinios.
+wavs/LT023-0158.wav|tačiau prisiminiau, kaip man pasakojo, kad prieš porą dešimtmečių,
+wavs/LT038-0090.wav|Prieš mums ką nors komentuojant, norėčiau išklausyti vyskupo Valdespino nuomonę.
+wavs/LT030-0010.wav|alyvos atspalvio odą rudai nudažė stiprus įdegis, ir veide įsirėžė raukšlės, todėl jis panėšėjo į žmogų, kuris amžinai prisimerkęs spiginasi į jūrą.
+wavs/LT020-0048.wav|Manau, kad ta pardavėja pirmą sykį turėjo lietuviškai kalbančiam žmogui aiškinti, kiek gėlių tinka ar netinka dovanoti kokia proga.
+wavs/LT029-0030.wav|Brownas ir rimtos mintys „Kilmėje“ dera tarpusavyje kaip niekur kitur. Janet Maslin, The New York Times
+wavs/LT006-0074.wav|Kiek laiko praėjo, kol „Coca Cola“ ar „McDonald’s“ tapo garsiais prekių ženklais?
+wavs/LT008-0067.wav|Siekdami užmegzti tokius santykius, turite kalbėti su vartotojais jų kalba.
+wavs/LT018-0105.wav|pats nesugalvoja, bet jos yra iš esmės teisingos, tai todėl visi jį labai garbina.
+wavs/LT026-0093.wav|Dėl šito ji buvo teisi.
+wavs/LT032-0093.wav|atsakyk, koks buvo pramoninis „Dow Jonės“ indeksas tūkstantis devyni šimtai septyniasdešimt ketvirtųjų rugpjūčio dvidešimt ketvirtą, kai užsidarė akcijų birža.
+wavs/LT027-0053.wav|Gulėjau garsiai alsuodamas šalia Aistės, negalėdamas patikėti, kaip gerai gali būti. Praėjusiame gyvenime aš esu mylėjęsis.
+wavs/LT028-0128.wav|Vainikis užkliuvo ir griuvo veidu į geltoną „Lietuvos pašto“ dėžutę.
+wavs/LT033-0044.wav|Bedievių sielos, atplėšusios nuo jo žmoną ir vaiką,
+wavs/LT036-0148.wav|Jos lūpos pradėjo virpėti. - Aš... nė neįsivaizduoju.
+wavs/LT009-0021.wav|Šiame žingsnyje aiškiai apibūdinkite tris pagrindines priežastis, kodėl žmogui verta pasirinkti jus, jūsų prekę ar paslaugą.
+wavs/LT037-0084.wav|Jis priklupo prie lavono, nuo Fonsekos akių iš dalies pasislėpęs už pakylos,
+wavs/LT013-0008.wav|Veikėjas netgi moka lietuvių kalbą. Jam tenka rinktis: bandyti atkurti senąjį gyvenimą pagal prisiminimus ar nerti stačia galva į nepažįstamą Lietuvą,
+wavs/LT030-0151.wav|Labas vakaras ir sveiki atvykę į Bilbao mieste atidarytą Gugenheimo muziejų.
+wavs/LT031-0176.wav|Tai vadinama piktograma.
+wavs/LT013-0205.wav|gal bijojau pabusti iš sapno, nes kai sužinosiu, koks čia miestas ir kokia šalis, palaima baigsis.
+wavs/LT021-0084.wav|bet galima šaipytis iš valdžios ir kitų, kurie tuos žilagalvius skriaudžia labiausiai.
+wavs/LT017-0087.wav|Negaliu pasakyti, kad man nepatiko. Man net labai patiko.
+wavs/LT034-0157.wav|Kai atskleidėme, kad potvynių ir atoslūgių ciklus nulemia mėnulis, Poseidonas tapo nebereikalingas,
+wavs/LT037-0003.wav|Jis sėdo į „ Uber“ automobilį.
+wavs/LT030-0209.wav|Panašu, turi atsakymą į kiekvieną klausimą. - Toks mano darbas.
+wavs/LT003-0034.wav|Rengdami savo marketingo medžiagą, atminkite, kad žmonės labiau reaguoja į tai, ko gali netekti, negu į tai, ką gaus.
+wavs/LT034-0278.wav|ir civilių lavonų fotomontažas.
+wavs/LT015-0084.wav|Man pačiam mano balsas atrodė lygiai toks pat, kaip aš jį atsiminiau. Man reikėjo sužinoti daugiau apie save.
+wavs/LT020-0028.wav|Papasakojau jai apie Fardiną Ašurą ir apie mūsų telefono pokalbį, nuo kurio man nepasidarė smarkiai aiškiau, tik gal truputėlį ramiau.
+wavs/LT004-0128.wav|Tikrai ne todėl, kad tam neužtenka vietos, ar todėl, kad pirkėjas neranda jam patinkančių produktų.
+wavs/LT027-0037.wav|Tuo tarpu aktorė Kablukutė, ištuštinusi skrandį, nuklibinkščiavo prie nudaužto šviesoforo, išdaužė spalvotus stiklus, išsuko iš šviesoforo visas lemputes,
+wavs/LT003-0046.wav|Jiems netgi nerūpi Jūsų produkto techninės savybės.
+wavs/LT021-0206.wav|Išeidamas iš studijos, pasibaigus filmavimui, girdėjau filmavimo grupės darbuotojus komentuojant, kad viskas itin gerai išėjo ir sklandžiai vyko, ir kad bus daug gerų gabaliukų į anonsus.
