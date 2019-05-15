@@ -471,3 +471,108 @@ wavs/LT004-0128.wav|Tikrai ne todėl, kad tam neužtenka vietos, ar todėl, kad 
 wavs/LT027-0037.wav|Tuo tarpu aktorė Kablukutė, ištuštinusi skrandį, nuklibinkščiavo prie nudaužto šviesoforo, išdaužė spalvotus stiklus, išsuko iš šviesoforo visas lemputes,
 wavs/LT003-0046.wav|Jiems netgi nerūpi Jūsų produkto techninės savybės.
 wavs/LT021-0206.wav|Išeidamas iš studijos, pasibaigus filmavimui, girdėjau filmavimo grupės darbuotojus komentuojant, kad viskas itin gerai išėjo ir sklandžiai vyko, ir kad bus daug gerų gabaliukų į anonsus.
+wavs/LT079-0117.wav|Nesulaukęs atsako dar sykį sulojau ir smarkiai pabrazdinau letena duris.
+wavs/LT079-0118.wav|Nesuskaičiuosiu, kiek kartų teko suloti, kad durys vėl atsidarytų.
+wavs/LT079-0119.wav|Itanas laikė metalinį dubenį, iš kurio sklido gardžiausi kvapai. - Štai, - sumurmėjo jis. - Tu alkanas, bičiuli?
+wavs/LT079-0120.wav|Vos jam pastačius dubenį ant žemės, įnikau ryti net nekramtydamas.
+wavs/LT079-0121.wav|Čia daugiausia lazanija. Neturiu po ranka šunų ėdalo. Tačiau tu, rodos, neišrankus.
+wavs/LT079-0122.wav|Vis dėlto tau neišdegs čia pasilikti.
+wavs/LT079-0123.wav|Negaliu laikyti šuns neturiu tam laiko. Tau teks grįžti namo.
+wavs/LT079-0124.wav|Dieve mano, kada gi tu paskutinį kartą ėdei? Neryk taip greitai - pasidarys bloga.
+wavs/LT079-0125.wav|Kai baigiau, Itanas lėtai pasilenkė paimti dubens. Palaižiau jam veidą.
+wavs/LT079-0126.wav|Fe, tau iš nasrų dvokia, ar žinai? - Jis nusišluostė rankove veidą ir vėl išsitiesė. Nenuleidau nuo jo akių pasirengęs daryti visa, ką tik jis lieps.
+wavs/LT079-0127.wav|Eiti pasivaikščioti? Pasivažinėti? Žaisti su ta kvaila skryde?
+wavs/LT079-0128.wav|Na, gerai. Keliauk namo. Matyti, kad esi grynaveislis. Tavęs turbūt ieško. Gerai? Labanakt. Itanas uždarė duris.
+wavs/LT079-0129.wav|Keletą minučių patupėjau. Kai sulojau, man virš galvos spragtelėjusi užgeso šviesa.
+wavs/LT079-0130.wav|Apėjęs namą užlipau ant žole apaugusios kalvelės ir pažvelgiau į svetainę. Pasiramstydamas lazdele Itanas pamažėle krutėjo po namus gesindamas šviesas.
+wavs/LT079-0131.wav|Mano berniukas taip suseno, kad niekaip nebūčiau jo atpažinęs.
+wavs/LT079-0132.wav|Bet dabar, kai žinojau, kad tai jis, mačiau, jog eisena ta pati, tik nerangesnė, ir prieš užgesindamas paskutinę lempą visai kaip kadaise
+wavs/LT079-0133.wav|pakreipė galvą ir įtempęs ausis, tarsi ko klausydamasis, pažiūrėjo į naktį.
+wavs/LT079-0134.wav|Suglumau tapęs kiemo šunimi,
+wavs/LT079-0135.wav|bet maistas pilve ir nuovargis kojose mane greitai įveikė ir prikišęs nosį prie uodegos susirangiau ten, kur stovėjau.
+wavs/LT079-0136.wav|Buvau namie.
+wavs/LT079-0137.wav|Kai kitą rytą Itanas išėjo į kiemą, nusipurtęs nuskuodžiau pas jį stengdamasis valdytis ir ne taip įnirtingai rodyti jam savo meilę.
+wavs/LT079-0138.wav|Jis įsispitrijo į mane.
+wavs/LT079-0139.wav|Kodėl tu vis dar čia, ką, vaikine? Ką čia veiki?
+wavs/LT079-0140.wav|Nusekiau jį į daržinę ir jis išleido į aptvarą arklį, kurio anksčiau nebuvau matęs. Žinoma, tas besmegenis gyvulys nė nesureagavo mane pamatęs
+wavs/LT079-0141.wav|stebeilijo be jokios nuovokos, visai kaip Blyksė.
+wavs/LT079-0142.wav|Aš esu šuo, mulki tu!
+wavs/LT079-0143.wav|Kol Itanas padavė jam avižų, aš pažymėjau aptvarą.
+wavs/LT079-0144.wav|Kaip šiandien laikaisi, Trojau? Liūdna be Jaspio, ar ne? Pasiilgai savo draugužio Jaspio?
+wavs/LT079-0145.wav|Itanas kalbėjosi su arkliu
+wavs/LT079-0146.wav|būčiau galėjęs jam paaiškinti, kad tik veltui gaišta laiką. Jis glostė arkliui nosį, vadindamas jį Trojum ir vis kartodamas Jaspio vardą,
+wavs/LT079-0147.wav|nors, kai nuėjau patikrinti, daržinėje asilo nebuvo, tik jo kvapas. Ypač Jaspių kvepėjo priekaba.
+wavs/LT079-0148.wav|Liūdna buvo diena, kai turėjau išvežti Jaspį. Tačiau jis nugyveno ilgą amžių. Keturiasdešimt ketveri - tai labai daug mažam asiliukui.
+wavs/LT079-0149.wav|Pajutęs Itano liūdesį bakstelėjau nosimi jam į ranką. Jis pažvelgė į mane mintimis klaidžiodamas kažkur kitur.
+wavs/LT079-0150.wav|Paskutinįsyk patapšnojo Trojų ir grįžo į namą.
+wavs/LT079-0151.wav|Po kelių valandų, kai uostinėjau kieme laukdamas, kol Itanas išeis pažaisti, įvažiavo furgonas.
+wavs/LT079-0152.wav|Vos jam sustojus atpažinau, kad tai tas pats, kurį mačiau automobilių aikštelėje prie šunų parko.
+wavs/LT079-0153.wav|Nuo priekinės sėdynės nulipo, aiškiai užuodžiau, tas pats policininkas, kuris tada tikrino krūmus nešinas pagaliu su kilpa;
+wavs/LT079-0154.wav|dabar tą patį pagalį jis išsitraukė iš furgono galo.
+wavs/LT079-0155.wav|Jums jo neprireiks! - išeidamas laukan šūktelėjo Itanas.
+wavs/LT079-0156.wav|Nusigręžiau nuo vyro ir vizgindamas uodegą nuėjau prie savo berniuko.
+wavs/LT079-0157.wav|Tiesiog atklydo praeitą naktį? - paklausė policininkas. - Taip, tikrai. Pažvelkite, vargšelis vien kaulai ir oda. Matyti, kad grynaveislis,
+wavs/LT079-0158.wav|bet kažkas prastai jį prižiūrėjo.
+wavs/LT079-0159.wav|Gavome pranešimų apie gražios išvaizdos labradorą, lakstantį palaidą miesto parke.
+wavs/LT079-0160.wav|Įdomu, ar tai tas pats šuo, - tarė policininkas.
+wavs/LT079-0161.wav|Nežinau. Tas parkas tolokai, - abejodamas atsakė Itanas.
+wavs/LT079-0162.wav|Vyras atidarė narvą furgono gale. - Kaip manote, gal pats įlips? Aš nenusiteikęs jo vaikytis.
+wavs/LT079-0163.wav|Ei, šuneli. Lipk čia. Gerai? Op! - Itanas patapšnojo praviro narvo grindis.
+wavs/LT079-0164.wav|Akimirką klausiamai į jį pažiūrėjau, o tada liuoktelėjau švelniai nutūpdamas ant grindų.
+wavs/LT079-0165.wav|Jei šito iš manęs nori berniukas, aš padarysiu. Padaryčiau bet ką dėl savo berniuko.
+wavs/LT079-0166.wav|Dėkoju, - pasakė policininkas uždarydamas narvo dureles.
+wavs/LT079-0167.wav|O kas bus toliau? - paklausė Itanas.
+wavs/LT079-0168.wav|Na, manau, toks šuo lengvai ras šeimininkus.
+wavs/LT079-0169.wav|Bet... gal būtų galima man paskambinti, pranešti? Jis tikrai puikus šuo - norėčiau žinoti, kad jam viskas gerai.
+wavs/LT079-0170.wav|Nežinau. Turėtumėt paskambinti į prieglaudą ir paprašyti, kad jus užregistruotų. Mano darbas - tik juos surinkti.
+wavs/LT079-0171.wav|Policininkas paspaudė Itanui ranką ir įlipo į furgono priekį, o berniukas priėjo prie mano narvo.
+wavs/LT079-0172.wav|Prispaudžiau nosį prie grotų, norėdamas prisiliesti prie jo ir gerdamas į save jo kvapą.
+wavs/LT079-0173.wav|Žiūrėk savęs, gerai, bičiuli? - švelniai pasakė Itanas.
+wavs/LT079-0174.wav|Tau reikia gerų namų su vaikais, kurie su tavimi žaistų. Aš tik senas žmogus.
+wavs/LT079-0175.wav|Buvau priblokštas - mes pajudėjome, o Itanas liko stovėti nulydėdamas mus akimis.
+wavs/LT079-0176.wav|Nebesusivaldęs ėmiau loti ir lojau visą laiką, kol važiavome iš kiemo, riedėjome pro Hanos namus ir toliau.
+wavs/LT079-0177.wav|Šis įvykis mane suglumino ir įskaudino. Kodėl mane atėmė iš Itano? Kodėl?
+wavs/LT079-0178.wav|Ar tai jis mane išsiuntė? Kada vėl jį pamatysiu? Norėjau būti su savo berniuku!
+wavs/LT079-0179.wav|Mane atvežė į pastatą, pilną šunų, daugelis jų kiaurą dieną baimingai skalijo.
+wavs/LT079-0180.wav|Buvau uždarytas į narvą vienas pats ir jau po dienos segėjau tą kvailą plastikinį antkaklį, ir kenčiau pažįstamą skausmą slėpsnose
+wavs/LT079-0181.wav|ar dėl to atsidūriau čia?
+wavs/LT079-0182.wav|Kada gi Itanas išsiveš mane namo?
+wavs/LT079-0183.wav|Kaskart, kai kas nors praeidavo pro mano narvą, pašokdavau ant kojų tikėdamasis, kad tai berniukas.
+wavs/LT079-0184.wav|Slenkant dienoms kartais išliedavau savo nusivylimą
+wavs/LT079-0185.wav|prisidėdamas prie be paliovos skardinčio ir nuo sienų ataidinčio choro. Kur Itanas? Kur mano berniukas?
+wavs/LT079-0186.wav|Žmonės, kurie mane šėrė ir manimi rūpinosi, buvo malonūs, švelnūs
+wavs/LT079-0187.wav|ir, turiu pripažinti, buvau taip išsiilgęs bendravimo, kad vos jie praverdavo narvo duris, eidavau prie jų ir atkišdavau galvą paglostyti.
+wavs/LT079-0188.wav|Kai į nedidelį kambarį manęs aplankyti atvyko šeima su trimis mažomis mergaitėmis, aš lipau joms ant kelių ir voliojausi ant nugaros
+wavs/LT079-0189.wav|taip beviltiškai troškau pajusti ant kūno žmogaus rankas.
+wavs/LT079-0190.wav|Ar galime jį pasiimti, tėti? - paklausė viena iš mergaičių.
+wavs/LT079-0191.wav|Meilė, besiliejanti iš trijų vaikų, neleido man nustygti.
+wavs/LT079-0192.wav|Jis juodas kaip anglis, - tarė šeimos motina. - Angliau, - pasakė tėtis. Suėmęs mano galvą jis apžiūrėjo dantis, o paskui vieną po kitos pakėlė priekines letenas.
+wavs/LT079-0193.wav|Žinojau, ką tai reiškia, - buvau anksčiau patyręs tokią apžiūrą. Pajutau pilve sukylant stingdančią baimę.
+wavs/LT079-0194.wav|Ne. Negaliu važiuoti į tų žmonių namus. Aš priklausau berniukui.
+wavs/LT079-0195.wav|Angliau! Angliau! - choru pratrūko mergaitės. Žiūrėjau į jas nustėręs, nebesidžiaugdamas jų žavėjimusi.
+wavs/LT079-0196.wav|Eime papietauti, - pasakė vyras.
+wavs/LT079-0197.wav|Tėėėti! - O pavalgę grįšim čia, pasiimsim Anglių ir jis važiuos su mumis, - užbaigė jis. - Valio!
+wavs/LT079-0198.wav|Aiškiai išgirdau žodį "važiuos",
+wavs/LT079-0199.wav|bet man palengvėjo, kai mergaitėms dar daug sykių mane apkabinus šeima išvyko.
+wavs/LT079-0200.wav|Mane vėl uždarė į narvą ir šiek tiek suglumęs susirangiau nusnūsti. Prisiminiau, kaip su Maja važiuodavom į mokyklą;
+wavs/LT079-0201.wav|mano darbas būdavo tupėti ir leisti vaikams mane glostyti. Galbūt tai tas pats,
+wavs/LT079-0202.wav|tik dabar vaikai lankysis pas mane.
+wavs/LT079-0203.wav|Nebuvau nusiteikęs prieš - svarbiausia, kad klydau:
+wavs/LT079-0204.wav|toji šeima niekur manęs neišsiveš.
+wavs/LT079-0205.wav|Likau laukti savo berniuko. Žmonių motyvai šunims nesuvokiami, tad nelabai supratau, kodėl mudu išskyrė, bet neabejojau, jog atėjus laikui Itanas "ieškos" manęs.
+wavs/LT079-0206.wav|Geros naujienos, berneli. Turėsi naujus namus,
+wavs/LT079-0207.wav|paduodama dubenį šviežio vandens pasakė mane šerianti moteris. - Netrukus jie grįš, ir mes išleisim tave iš šios vietos į geresnį gyvenimą. Žinojau, kad ilgai netruks.
+wavs/LT079-0208.wav|Pavizginau uodegą, leidau jai pakasyti man paausius ir palaižiau ranką.
+wavs/LT079-0209.wav|"Taip, - pagalvojau atsiliepdamas į jos pakilią nuotaiką, - aš vis dar čia."
+wavs/LT079-0210.wav|Paskambinsiu vyrui, kuris atidavė tave čia. Jis džiaugsis išgirdęs, kad radome tau gerą šeimą.
+wavs/LT079-0211.wav|Jai išėjus apsukau keletą ratų ir įsitaisiau pogulio toliau laukdamas savo berniuko. Po pusvalandžio atsitūpiau iš miego įsitempęs
+wavs/LT079-0212.wav|kaip styga. Mane pasiekė vyro balsas,
+wavs/LT079-0213.wav|Amtelėjau. - Mano šuo... mano nuosavybė... aš apsigalvojau! - šaukė jis.
+wavs/LT079-0214.wav|Lioviausi lojęs ir sustingau - jutau jį kitapus sienos ir nenuleisdamas akių nuo durų troškau, kad jos atsidarytų ir aš galėčiau jį užuosti.
+wavs/LT079-0215.wav|Ir jos atsidarė - moteris, padavusi man vandens, koridoriumi atlydėjo berniuką.
+wavs/LT079-0216.wav|Vizgindamas uodegą užkėliau letenas ant narvo.
+wavs/LT079-0217.wav|Jaučiau, kad moteris labai nepatenkinta.
+wavs/LT079-0218.wav|Tie vaikai taip nusimins, - pasakė. Ji atidarė mano narvą, ir aš išpuolęs įsirėžiau į berniuką vizgindamas, laižydamas ir inkšdamas.
+wavs/LT079-0219.wav|Tai stebinčios moters pyktis atslūgo.
+wavs/LT079-0220.wav|Na, gerai, - pasakė ji. - Dievulėliau.
+wavs/LT079-0221.wav|Keletą minučių Itanas stovėjo prie stalo kažką rašydamas, o aš kantriai tupėjau jam prie kojų, stengdamasis nekelti ant jo letenų.
