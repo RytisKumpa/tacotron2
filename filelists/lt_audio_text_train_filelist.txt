@@ -7057,7 +7057,7 @@ wavs/LT069-0033.wav|Todai? - kažkur namuose šūktelėjo moteris. Jis metė į 
 wavs/LT069-0034.wav|Lik čia. Ir tylėk, - sušnypštė jis, atbulas išeidamas iš kambario ir uždarydamas duris.
 wavs/LT069-0035.wav|Mano akys ašarojo nuo tvyrančio aitraus kvapo, ir aš baimingai žingsniavau po kambarį.
 wavs/LT069-0036.wav|Berniukas kvietė mane, ir aš niekaip negalėjau suprasti, kaip Todas drįsta laikyti mane uždarytą čia lyg garaže.
-LT069-0037|Sukl.wavusau išgirdęs tylų garsą - Linda pravėrė duris, laikydama rankoje permirkusį džiūvėsį.
+wavs/LT069-0037.wav|Suklusau išgirdęs tylų garsą - Linda pravėrė duris, laikydama rankoje permirkusį džiūvėsį.
 wavs/LT069-0038.wav|Čionai, Beili, - sušnibždėjo ji. - Geras šuo.
 wavs/LT069-0039.wav|Labiau už viską norėjau išeiti iš čia, bet aš ne kvailys
 wavs/LT069-0040.wav|suėdžiau džiūvėsį. Linda plačiau atvėrė duris.
