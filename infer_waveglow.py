@@ -11,12 +11,12 @@ from layers import TacotronSTFT, STFT
 from audio_processing import griffin_lim
 from train import load_model
 from text import text_to_sequence
-#from denoiser import Denoiser
+from denoiser import Denoiser
 
 hparams = create_hparams()
 hparams.sampling_rate = 22050
 sampling_rate = 22050
-checkpoint_path = "checkpoint_40000"
+checkpoint_path = "checkpoint_7000"
 model = load_model(hparams)
 model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
 _ = model.cuda().eval().half()
@@ -27,7 +27,7 @@ waveglow = waveglow.remove_weightnorm(waveglow)
 waveglow.cuda().eval().half()
 for k in waveglow.convinv:
     k.float()
-#denoiser = Denoiser(waveglow)
+denoiser = Denoiser(waveglow)
 
 text = "Pasikiškiakopūsteliaudamasis. Nejaugi negalima greičiau ištarti?"
 text = "Šį modelį tik treniravau dvi dienas ir net nenaudojau visų duomenų. Kai sukarpysiu vusas audio knygas ir pabaigsiu treniravimą, nebus įmanoma atskirti šio kompiuteriu sugeneruoto įrašo nuo žmogaus!"
@@ -44,11 +44,13 @@ for text in file:
 	mel_outputs, mel_outputs_postnet, _, alignments = model.inference(sequence)
 
 	with torch.no_grad():
-		audio = 32768.0 * waveglow.infer(mel_outputs_postnet, sigma=0.666)[0]
-		
+		audio = waveglow.infer(mel_outputs_postnet, sigma=0.666)
+		audio = denoiser(audio, 0.1)
+		audio = 32768.0 *  audio
 		
 	audio = audio.cpu().numpy()
 	audio = audio.astype('int16')
+	#audio_denoised = denoiser(audio, strength=0.01)[:, 0]
 	audio_path = os.path.join('samples', "{}_synthesis.wav".format(i))
 	write(audio_path, sampling_rate, audio)
 	i += 1
